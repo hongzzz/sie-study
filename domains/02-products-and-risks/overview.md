@@ -195,4 +195,16 @@ Given this is 44% of the exam:
 
 ---
 
-**Next**: Proceed to `topics/` subfolder for detailed topic breakdowns
+## Topics Coverage
+
+**Topics** (to be covered in interactive sessions):
+- Equity Securities - Common vs Preferred stock, Rights & Warrants, ADRs
+- Debt Securities - U.S. Treasuries, Corporate bonds, Agency securities
+- Municipal Bonds - GO vs Revenue bonds, tax treatment
+- Options - Calls vs Puts, basic strategies
+- Investment Companies - Mutual funds, ETFs, Closed-end funds
+- Other Products - Variable annuities, REITs, Alternative investments
+
+*Topic files will be generated during study sessions based on your learning pace and stored in the `topics/` folder.*
+
+**See**: [Topics Inventory](TOPICS-INVENTORY.md) for current teaching status and next recommendations

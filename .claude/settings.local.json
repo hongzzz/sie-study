@@ -3,7 +3,8 @@
     "allow": [
       "WebFetch(domain:github.com)",
       "WebSearch",
-      "WebFetch(domain:www.finra.org)"
+      "WebFetch(domain:www.finra.org)",
+      "Bash(tree:*)"
     ]
   }
 }

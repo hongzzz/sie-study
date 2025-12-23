@@ -108,4 +108,14 @@ This domain typically tests:
 
 ---
 
-**Next**: Proceed to `topics/` subfolder for detailed topic breakdowns, or start with [`01-market-structure.md`](topics/01-market-structure.md)
+## Topics Coverage
+
+**Topics** (to be covered in interactive sessions):
+- Market Structure - Primary vs Secondary markets, NYSE vs NASDAQ
+- Regulatory Agencies - SEC, FINRA, MSRB, SIPC roles and authority
+- Types of Offerings - IPO, follow-on, private placements, shelf registrations
+- Economic Factors - Monetary/fiscal policy, GDP, CPI, indicators
+
+*Topic files will be generated during study sessions based on your learning pace and stored in the `topics/` folder.*
+
+**See**: [Topics Inventory](TOPICS-INVENTORY.md) for current teaching status and next recommendations

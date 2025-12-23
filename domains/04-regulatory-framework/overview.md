@@ -211,4 +211,13 @@ This domain tests:
 
 ---
 
-**Next**: Proceed to `topics/` subfolder for detailed breakdowns
+## Topics Coverage
+
+**Topics** (to be covered in interactive sessions):
+- Key Federal Acts - 1933 Act (new issues), 1934 Act (trading/SEC), 1940 Acts (funds/advisers), 1970 Act (SIPC)
+- SEC Regulations - Reg D (private placements), Reg T (margin), Reg S-P (privacy), Reg BI (best interest)
+- FINRA Rules - Suitability (Rule 2111), Communications (Rule 2210), Code of Conduct
+
+*Topic files will be generated during study sessions based on your learning pace and stored in the `topics/` folder.*
+
+**See**: [Topics Inventory](TOPICS-INVENTORY.md) for current teaching status and next recommendations

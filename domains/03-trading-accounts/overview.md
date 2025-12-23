@@ -145,4 +145,13 @@ This domain tests:
 
 ---
 
-**Next**: Proceed to `topics/` subfolder for detailed breakdowns
+## Topics Coverage
+
+**Topics** (to be covered in interactive sessions):
+- Trading & Markets - Order types (Market, Limit, Stop, Stop-Limit), Market participants, Settlement (T+2)
+- Customer Accounts - Account types (Individual, Joint, Corporate, Trust, Custodial), Documentation, Cash vs Margin
+- Prohibited Activities - Market manipulation, Insider trading, Fraudulent practices (churning, unauthorized trading)
+
+*Topic files will be generated during study sessions based on your learning pace and stored in the `topics/` folder.*
+
+**See**: [Topics Inventory](TOPICS-INVENTORY.md) for current teaching status and next recommendations
