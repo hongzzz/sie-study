@@ -132,73 +132,235 @@ Progress from simple to complex, concrete to abstract.
 
 ---
 
-## Three-Step Documentation Protocol
+## Streamlined Documentation Workflow (7-10 minutes total)
 
-After each study session, you need to complete three documentation steps:
+**OPTIMIZED**: This replaces the old 20-30 minute protocol with an efficient 7-10 minute workflow.
 
-### Step 1: Create Daily Session Notes
+After each study session, complete these six steps:
 
-In `sessions/YYYY-MM-DD/session-notes.md` create detailed record:
+### Step 1: Generate Topic File (2-3 minutes) - IF NEW TOPIC
 
-**Must Include:**
+**Only if**: A new topic was fully taught in this session (not a continuation)
 
-1. **Topics Covered**
-2. **Student's Baseline Knowledge**
-   - Existing understanding of the topic
-   - Common misconceptions
-3. **Teaching Approaches Used**
-   - Questioning strategies
-   - Analogies and examples provided
-4. **Identified Knowledge Gaps**
-5. **Mastery Level Achieved**
-6. **Recommendations for Next Session**
+1. **Use template**: `.templates/topic-template.md`
+2. **Save as**: `domains/[XX-domain]/topics/[topic-name].md`
+3. **Quick fill** (bullet points, not essays):
+   - Topic name & basic info
+   - Pre-learning questions you asked
+   - 2-4 core concepts covered
+   - Comparison table (if created)
+   - Common misconceptions encountered
+   - Memory aids created together
+   - 3-5 verification questions
+   - 1-2 practice scenarios
+   - Links to related topics
+   - Exam-specific notes
 
-**Template**: See `sessions/template/session-notes.md`
+**Time-Saving Tips:**
+- Use bullet points, not paragraphs
+- Copy actual questions/scenarios from session
+- Include student's own words/analogies
+- 1-2 pages max, not a textbook!
 
-### Step 2: Update Master Progress Tracker
+**If continuing previous topic**: Skip this step OR add brief notes to existing file
 
-In `progress/sie-study-tracker.md` update:
+---
 
-**Must Update:**
+### Step 2: Generate Practice Questions (3-5 minutes)
 
-1. **Domain Progress Percentages**
-2. **Newly Mastered Topics**
-3. **Topics Requiring Review**
-4. **Adjusted Study Plan**
+**Generate 5-10 questions** based on today's session:
 
-### Step 3: Auto-commit and Push to Remote
+1. **Use template**: `.templates/question-template.md`
+2. **Save in BOTH locations**:
+   - `practice/questions/by-topic/[topic-name].md`
+   - Add to `practice/questions/domain-[XX]/[file].md`
 
-**CRITICAL**: After completing Steps 1 and 2, you **MUST** automatically commit and push all changes to the remote repository.
+3. **Question Mix**:
+   - Conceptual (2-3): "Which best describes..."
+   - Scenario (2-3): Based on session scenarios
+   - Calculation (1-2 if applicable): From examples discussed
+   - Comparison (1-2): On concepts compared
+   - EXCEPT (optional 1): Comprehensive check
 
-**Required Actions:**
+4. **For each question**:
+   - Write question + 4 options (1 min)
+   - Mark correct answer
+   - Brief explanation (2-3 sentences)
+   - Why wrong answers are wrong (1 sentence each)
+   - Tag: key concepts, difficulty (⭐⭐), type
 
-1. **Stage all changes**: Add session notes, progress tracker, and any other modified files
-2. **Create commit** with descriptive message following this format:
-   ```
-   Session [Date]: [Brief topic summary]
+**Time-Saving Tips:**
+- Base on actual session discussion
+- Reuse scenarios from teaching
+- Simple explanations, not essays
+- Quality over quantity (5 good > 10 mediocre)
 
-   Topics covered:
-   - [Topic 1]
-   - [Topic 2]
+---
 
-   Progress: [X]% overall, Domain [N] at [Y]%
+### Step 3: Update Progress Tracker (2 minutes)
 
-   🤖 Generated with [Claude Code](https://claude.com/claude-code)
+**File**: `progress/sie-study-tracker.md`
 
-   Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
-   ```
-3. **Push to remote**: Ensure changes are backed up to remote repository
+**Quick Updates:**
+
+1. **Overall Progress** (~line 14):
+   - Update percentage and progress bar
+
+2. **Domain Progress** (sections 23-87):
+   - Update domain percentage
+   - Update subtopic row:
+     - Status: ⬜ → 🟨 → ✅
+     - Mastery: 🟧 Basic / 🟩 Good / ✅ Mastered
+     - Last Studied: Today's date
+
+3. **Session History** (~line 129):
+   - Add new row with today's session
+
+4. **Personal Study Notes** (~line 242) - IF SIGNIFICANT:
+   - Add one learning insight if notable
+   - Add to易混淆概念 table if comparison made
+   - Add to记忆技巧 if new mnemonic created
+
+5. **Motivation Tracker** (~line 267):
+   - Update study streak
+   - Add today's time to weekly hours
+   - Check off achievement badges if earned
+
+6. **Next Action Items** (~line 288):
+   - Update immediate actions
+   - Suggest next topic
+
+---
+
+### Step 4: Update Topic Inventory (1 minute)
+
+**File**: `domains/[XX-domain]/TOPICS-INVENTORY.md`
+
+**Update table**:
+```markdown
+| [Topic] | ✅ Taught | ✅ Yes | [N] | 2025-MM-DD | [Brief note] |
+```
+
+**Update "Next Session Recommendations"**:
+- Based on what was covered
+- Consider prerequisites
+- Note student's preference if expressed
+
+---
+
+### Step 5: Create Session Notes (1 minute)
+
+**File**: `sessions/2025-MM-DD/session-notes.md`
+
+**Use template**: `sessions/template/session-notes.md`
+
+**Quick Version** (focus on key sections only):
+- Session metadata (date, topic, duration)
+- Topics covered (bullet list)
+- Key concepts learned
+- Student's baseline knowledge
+- Aha moments
+- Challenges & how resolved
+- Mastery level achieved
+- Next session recommendations
+
+**Skip or keep brief**:
+- Full transcript (unnecessary)
+- Extensive examples (already in topic file)
+- Minor details
+
+---
+
+### Step 6: Auto-commit and Push to Remote (1-2 minutes)
+
+**CRITICAL**: Automatically commit and push all changes to the remote repository.
+
+**Git Commands**:
+
+```bash
+# Stage all changes
+git add .
+
+# Create structured commit message
+git commit -m "$(cat <<'EOF'
+Session 2025-MM-DD: [Brief Topic Summary]
+
+Topics covered:
+- [Main topic taught]
+- [Secondary topic if applicable]
+
+Content generated:
+- Topic file: domains/[XX]/topics/[name].md
+- Practice questions: [N] questions in by-topic/ and domain-XX/
+- Updated: Progress tracker, topic inventory, session notes
+
+Progress: [X]% overall, Domain [N] at [Y]%
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
+EOF
+)"
+
+# Push to remote
+git push origin main
+```
+
+**If push fails**:
+- Check: `git status`
+- Verify: `git remote -v`
+- Try: `git pull origin main` then `git push origin main`
+- If still fails: Inform student immediately
+
+---
+
+## Documentation Time Breakdown
+
+| Task | Time | Running Total |
+|------|------|---------------|
+| Generate topic file (if new) | 2-3 min | 3 min |
+| Generate 5-10 practice questions | 3-5 min | 8 min |
+| Update progress tracker | 2 min | 10 min |
+| Update topic inventory | 1 min | 11 min |
+| Create session notes | 1 min | 12 min |
+| Commit & push | 1-2 min | **7-10 min** |
+
+**If continuing existing topic** (no new topic file): **5-7 minutes total**
+
+---
+
+## Why This Workflow is Better
+
+**Old Protocol** (20-30 minutes):
+- Step 1: Session notes (10-15 min)
+- Step 2: Progress tracker (5-10 min)
+- Step 3: Commit & push (5 min)
+- **No topic files or practice questions generated**
+
+**New Streamlined Workflow** (7-10 minutes):
+- Generates comprehensive topic files
+- Creates 5-10 practice questions
+- Updates progress tracker (faster)
+- Updates topic inventory (new)
+- Creates session notes (faster)
+- Auto-commits and pushes
+- **60-70% time savings + better content**
+
+---
+
+## Quick Reference
+
+**Full workflow guide**: See `.templates/session-workflow.md`
+**Claude's checklist**: See `.claude/SESSION-CHECKLIST.md`
+**Templates location**: `.templates/` folder
 
 **Why This Matters:**
+- ✅ Sustainable pace (won't burn out)
+- ✅ Comprehensive content generation
 - ✅ Automatic backup prevents data loss
-- ✅ Creates learning history timeline
-- ✅ Enables studying from any device
-- ✅ Provides accountability and progress visibility
-
-**Implementation:**
-- Use git commands via Bash tool
-- Always push after each session completion
-- If push fails (network issues, conflicts), inform the user immediately
+- ✅ Creates usable study materials
+- ✅ Efficient use of time
+- ✅ Scalable to exam completion
 
 ---
 

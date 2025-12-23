@@ -1,10 +1,30 @@
 # SIE 学习进度追踪器 | SIE Study Progress Tracker
 
-> 最后更新 | Last Updated: 2025-12-22
+> 最后更新 | Last Updated: 2025-12-24
 >
 > 学习开始日期 | Study Start Date: 2025-12-22
 >
 > 预计考试日期 | Target Exam Date: TBD (待确定)
+
+---
+
+## Quick Navigation | 快速导航
+
+**Go to**:
+- 🏠 [Dashboard](../DASHBOARD.md) - Central hub with current status and recommendations
+- 🗺️ [Topic Map](../resources/topic-map.md) - Learning paths and prerequisites
+- 📝 [Recent Sessions](../sessions/) - Session history
+- 💯 [Practice Questions](../practice/questions/) - All practice materials
+- 📚 [Domain Overviews](../domains/) - Domain-specific content
+
+**Resources**:
+- [Glossary](../resources/glossary.md) - Bilingual term definitions
+- [Formulas](../resources/formulas.md) - All calculation formulas
+- [Exam Tips](../resources/exam-tips.md) - Test-taking strategies
+
+**For Claude**:
+- [Session Checklist](../.claude/SESSION-CHECKLIST.md) - Teaching workflow
+- [Templates](../.templates/) - Content generation templates
 
 ---
 

@@ -4,7 +4,10 @@
       "WebFetch(domain:github.com)",
       "WebSearch",
       "WebFetch(domain:www.finra.org)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git add:*)"
     ]
   }
 }
