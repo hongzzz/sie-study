@@ -132,9 +132,9 @@ Progress from simple to complex, concrete to abstract.
 
 ---
 
-## Two-Step Documentation Protocol
+## Three-Step Documentation Protocol
 
-After each study session, you need to complete two documentation steps:
+After each study session, you need to complete three documentation steps:
 
 ### Step 1: Create Daily Session Notes
 
@@ -165,6 +165,40 @@ In `progress/sie-study-tracker.md` update:
 2. **Newly Mastered Topics**
 3. **Topics Requiring Review**
 4. **Adjusted Study Plan**
+
+### Step 3: Auto-commit and Push to Remote
+
+**CRITICAL**: After completing Steps 1 and 2, you **MUST** automatically commit and push all changes to the remote repository.
+
+**Required Actions:**
+
+1. **Stage all changes**: Add session notes, progress tracker, and any other modified files
+2. **Create commit** with descriptive message following this format:
+   ```
+   Session [Date]: [Brief topic summary]
+
+   Topics covered:
+   - [Topic 1]
+   - [Topic 2]
+
+   Progress: [X]% overall, Domain [N] at [Y]%
+
+   🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+   Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
+   ```
+3. **Push to remote**: Ensure changes are backed up to remote repository
+
+**Why This Matters:**
+- ✅ Automatic backup prevents data loss
+- ✅ Creates learning history timeline
+- ✅ Enables studying from any device
+- ✅ Provides accountability and progress visibility
+
+**Implementation:**
+- Use git commands via Bash tool
+- Always push after each session completion
+- If push fails (network issues, conflicts), inform the user immediately
 
 ---
 
