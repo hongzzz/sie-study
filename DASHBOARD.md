@@ -49,7 +49,7 @@ Current Phase: 🟡 Foundation Phase
 
 #### 📊 Progress & Planning
 - [Full Progress Tracker (完整进度追踪)](progress/sie-study-tracker.md) - Detailed metrics
-- [Claude Session Checklist](/.claude/SESSION-CHECKLIST.md) - Teaching workflow
+- [Claude Session Checklist](SESSION-CHECKLIST.md) - Teaching workflow
 
 ---
 
@@ -230,7 +230,7 @@ Domain 4 (Regulatory Framework): ░░░░░░░░░░░░░░░�
 1. [Check DASHBOARD.md](DASHBOARD.md) ← You are here
 2. [Review last session notes](sessions/2025-12-23/session-notes.md)
 3. [Check topic inventories](domains/) for status
-4. [Follow session checklist](/.claude/SESSION-CHECKLIST.md)
+4. [Follow session checklist](SESSION-CHECKLIST.md)
 
 ### During Session
 - [Teaching methodology](CLAUDE.md) - Socratic method guide

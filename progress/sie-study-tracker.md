@@ -23,7 +23,7 @@
 - [Exam Tips](../resources/exam-tips.md) - Test-taking strategies
 
 **For Claude**:
-- [Session Checklist](../.claude/SESSION-CHECKLIST.md) - Teaching workflow
+- [Session Checklist](../SESSION-CHECKLIST.md) - Teaching workflow
 - [Templates](../.templates/) - Content generation templates
 
 ---

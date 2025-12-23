@@ -462,7 +462,7 @@ Domain 4 (9%) → Last (memorization-heavy, study close to exam)
 - [DASHBOARD](../DASHBOARD.md) - Current status and recommendations
 - [Progress Tracker](../progress/sie-study-tracker.md) - Detailed progress metrics
 - [Domain Inventories](../domains/) - Topic-specific status
-- [Session Checklist](../.claude/SESSION-CHECKLIST.md) - For Claude's teaching
+- [Session Checklist](../SESSION-CHECKLIST.md) - For Claude's teaching
 
 **Back to**: [Resources](README.md) (if README exists in resources/)
 

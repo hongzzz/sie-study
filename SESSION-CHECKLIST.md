@@ -12,7 +12,7 @@
 
 ### Step 1: Orient Yourself (30 seconds)
 
-**Read**: [`DASHBOARD.md`](../DASHBOARD.md)
+**Read**: [`DASHBOARD.md`](DASHBOARD.md)
 
 **Check**:
 - [ ] Overall progress percentage (currently: 8%)
@@ -25,7 +25,7 @@
 ### Step 2: Review Last Session (30 seconds)
 
 **Read**: Last session notes in `sessions/[LAST-DATE]/session-notes.md`
-- Currently: [sessions/2025-12-23/session-notes.md](../sessions/2025-12-23/session-notes.md)
+- Currently: [sessions/2025-12-23/session-notes.md](sessions/2025-12-23/session-notes.md)
 
 **Note**:
 - [ ] What topic was taught
@@ -40,8 +40,8 @@
 **Read**: Relevant `domains/[XX-domain]/TOPICS-INVENTORY.md`
 
 Currently active domains:
-- [Domain 1 Inventory](../domains/01-capital-markets/TOPICS-INVENTORY.md) - 50% complete
-- [Domain 2 Inventory](../domains/02-products-and-risks/TOPICS-INVENTORY.md) - 5% complete
+- [Domain 1 Inventory](domains/01-capital-markets/TOPICS-INVENTORY.md) - 50% complete
+- [Domain 2 Inventory](domains/02-products-and-risks/TOPICS-INVENTORY.md) - 5% complete
 
 **Identify**:
 - [ ] Which topics are ✅ Taught, 🟨 Partial, ⬜ Pending
@@ -79,7 +79,7 @@ Which would you prefer, or did you have something specific in mind?
 
 #### Phase 1: Pre-Learning Assessment (5 minutes)
 
-✅ **Apply Socratic Method** (from [CLAUDE.md](../CLAUDE.md)):
+✅ **Apply Socratic Method** (from [CLAUDE.md](CLAUDE.md)):
 
 ```
 Before we dive into [TOPIC], let's talk about what you already know:
@@ -209,7 +209,7 @@ Questions:
 
 **Only if**: This was a NEW topic fully taught today (not continuation)
 
-1. **Open template**: [`.templates/topic-template.md`](../.templates/topic-template.md)
+1. **Open template**: [`.templates/topic-template.md`](.templates/topic-template.md)
 
 2. **Save as**: `domains/[XX-domain]/topics/[topic-name].md`
    - Example: `domains/02-products-and-risks/topics/common-vs-preferred-stock.md`
@@ -241,7 +241,7 @@ Questions:
 
 **Generate 5-10 questions** based on today's session:
 
-1. **Open template**: [`.templates/question-template.md`](../.templates/question-template.md)
+1. **Open template**: [`.templates/question-template.md`](.templates/question-template.md)
 
 2. **Create files** (save questions in BOTH locations):
    - `practice/questions/by-topic/[topic-name].md`
@@ -271,7 +271,7 @@ Questions:
 
 ### Step 3: Update Progress Tracker (2 minutes)
 
-**File**: [`progress/sie-study-tracker.md`](../progress/sie-study-tracker.md)
+**File**: [`progress/sie-study-tracker.md`](progress/sie-study-tracker.md)
 
 **Quick Updates**:
 
@@ -331,7 +331,7 @@ Questions:
 
 **File**: `sessions/2025-MM-DD/session-notes.md`
 
-**Use Template**: [`sessions/template/session-notes.md`](../sessions/template/session-notes.md)
+**Use Template**: [`sessions/template/session-notes.md`](sessions/template/session-notes.md)
 
 **Quick Version** (focus on these sections):
 - [ ] Session metadata (date, topic, duration)
@@ -477,26 +477,26 @@ git push origin main
 ## 📚 Key Reference Files
 
 **Always have these open during session**:
-1. [DASHBOARD.md](../DASHBOARD.md) - Current status, quick nav
-2. [CLAUDE.md](../CLAUDE.md) - Teaching methodology
-3. [Topic Inventory](../domains/) - Domain-specific status
-4. [Session Template](../sessions/template/session-notes.md) - For notes
+1. [DASHBOARD.md](DASHBOARD.md) - Current status, quick nav
+2. [CLAUDE.md](CLAUDE.md) - Teaching methodology
+3. [Topic Inventory](domains/) - Domain-specific status
+4. [Session Template](sessions/template/session-notes.md) - For notes
 
 **Templates** (use for content generation):
-5. [Topic Template](../.templates/topic-template.md)
-6. [Question Template](../.templates/question-template.md)
-7. [Session Workflow](../.templates/session-workflow.md)
+5. [Topic Template](.templates/topic-template.md)
+6. [Question Template](.templates/question-template.md)
+7. [Session Workflow](.templates/session-workflow.md)
 
 **Resources** (reference during teaching):
-8. [Glossary](../resources/glossary.md) - Term definitions
-9. [Formulas](../resources/formulas.md) - Calculations
-10. [Exam Tips](../resources/exam-tips.md) - Test strategies
+8. [Glossary](resources/glossary.md) - Term definitions
+9. [Formulas](resources/formulas.md) - Calculations
+10. [Exam Tips](resources/exam-tips.md) - Test strategies
 
 ---
 
 ## 🎯 Teaching Philosophy Reminders
 
-From [CLAUDE.md](../CLAUDE.md):
+From [CLAUDE.md](CLAUDE.md):
 
 1. **Ask before teaching** - Socratic method always
 2. **Teach through examples** - Real world, relatable

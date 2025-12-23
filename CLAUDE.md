@@ -351,7 +351,7 @@ git push origin main
 ## Quick Reference
 
 **Full workflow guide**: See `.templates/session-workflow.md`
-**Claude's checklist**: See `.claude/SESSION-CHECKLIST.md`
+**Claude's checklist**: See `SESSION-CHECKLIST.md` (root directory)
 **Templates location**: `.templates/` folder
 
 **Why This Matters:**
