@@ -1,14 +1,14 @@
-# SIE 学习进度追踪器 | SIE Study Progress Tracker
+# SIE Study Progress Tracker
 
-> 最后更新 | Last Updated: 2025-12-24
+> Last Updated: 2025-12-23
 >
-> 学习开始日期 | Study Start Date: 2025-12-22
+> Study Start Date: 2025-12-22
 >
-> 预计考试日期 | Target Exam Date: TBD (待确定)
+> Target Exam Date: TBD
 
 ---
 
-## Quick Navigation | 快速导航
+## Quick Navigation
 
 **Go to**:
 - 🏠 [Dashboard](../DASHBOARD.md) - Central hub with current status and recommendations
@@ -18,343 +18,336 @@
 - 📚 [Domain Overviews](../domains/) - Domain-specific content
 
 **Resources**:
-- [Glossary](../resources/glossary.md) - Bilingual term definitions
-- [Formulas](../resources/formulas.md) - All calculation formulas
+- [Glossary](../resources/glossary.md) - Key terms and definitions
+- [Formulas](../resources/formulas.md) - Calculation formulas
 - [Exam Tips](../resources/exam-tips.md) - Test-taking strategies
 
-**For Claude**:
+**For the AI Assistant**:
 - [Session Checklist](../SESSION-CHECKLIST.md) - Teaching workflow
 - [Templates](../.templates/) - Content generation templates
 
 ---
 
-## 总体进度概览 | Overall Progress Overview
+## Overall Progress Overview
 
 ```
-总进度 Overall Progress: ▰▰▱▱▱▱▱▱▱▱ 8%
+Overall Progress: ▰▰▱▱▱▱▱▱▱▱ 8%
 
-预计完成时间 | Estimated Completion: ~16 weeks (基于每天30分钟)
-已学习天数 | Days Studied: 2
-剩余天数 | Days Remaining: ~108 days
+Estimated Completion: ~16 weeks (assuming 30 minutes/day)
+Days Studied: 2
+Days Remaining: ~108 days
 ```
 
 ---
 
-## 四大知识领域进度 | Four Domain Progress
+## Four Domain Progress
 
-### Domain 2: Understanding Products and Their Risks (44% | 33题)
-**当前进度 Current Progress**: ▰▱▱▱▱▱▱▱▱▱ 5%
+### Domain 2: Understanding Products and Their Risks (44% | 33 questions)
+**Current Progress**: ▰▱▱▱▱▱▱▱▱▱ 5%
 
-| 子主题 Subtopic | 状态 Status | 掌握度 Mastery | 最后学习 Last Studied | 备注 Notes |
-|----------------|-------------|----------------|----------------------|-----------|
-| Equity Securities (股票证券) | 🟨 学习中 | 🟧 基本理解 | 2025-12-22 | 普通股 vs 优先股已掌握基础概念 |
-| Debt Securities (债务证券) | ⬜ 未开始 | -- | -- | 国债、公司债 |
-| Municipal Bonds (市政债券) | ⬜ 未开始 | -- | -- | GO bonds, Revenue bonds |
-| Options (期权) | ⬜ 未开始 | -- | -- | Calls, Puts, 基础策略 |
-| Investment Companies (投资公司) | ⬜ 未开始 | -- | -- | 共同基金、ETF |
-| Other Products (其他产品) | ⬜ 未开始 | -- | -- | 保险产品、另类投资 |
+| Subtopic | Status | Mastery | Last Studied | Notes |
+|---------|--------|--------|--------------|------|
+| Equity Securities (股票证券) | 🟨 In Progress | 🟧 Basic Understanding | 2025-12-22 | Solid on Common Stock (普通股) vs Preferred Stock (优先股) at a baseline level |
+| Debt Securities (债务证券) | ⬜ Not Started | -- | -- | Treasuries, corporate bonds |
+| Municipal Bonds (市政债券) | ⬜ Not Started | -- | -- | GO bonds, revenue bonds |
+| Options (期权) | ⬜ Not Started | -- | -- | Calls, puts, basic strategies |
+| Investment Companies (投资公司) | ⬜ Not Started | -- | -- | Mutual funds, ETFs |
+| Other Products (其他产品) | ⬜ Not Started | -- | -- | Insurance products, alternatives |
 
-**领域笔记 | Domain Notes**:
-- 这是权重最高的领域，应分配最多学习时间
-- 建议学习顺序：股票 → 债券 → 市政债 → 期权 → 基金
-
----
-
-### Domain 3: Understanding Trading, Customer Accounts and Prohibited Activities (31% | 23题)
-**当前进度 Current Progress**: ▱▱▱▱▱▱▱▱▱▱ 0%
-
-| 子主题 Subtopic | 状态 Status | 掌握度 Mastery | 最后学习 Last Studied | 备注 Notes |
-|----------------|-------------|----------------|----------------------|-----------|
-| Trading & Markets (交易与市场) | ⬜ 未开始 | -- | -- | 订单类型、市场结构 |
-| Customer Accounts (客户账户) | ⬜ 未开始 | -- | -- | 账户类型、开户流程 |
-| Prohibited Activities (禁止行为) | ⬜ 未开始 | -- | -- | 内幕交易、市场操纵 |
-
-**领域笔记 | Domain Notes**:
-- 涉及实务操作，需结合场景理解
-- 禁止行为部分要特别注意，经常出现案例题
+**Domain Notes**:
+- Highest-weight domain; allocate the most study time here.
+- Suggested order: Equity Securities (股票证券) → Debt Securities (债务证券) → Municipal Bonds (市政债券) → Options (期权) → Investment Companies (投资公司)
 
 ---
 
-### Domain 1: Knowledge of Capital Markets (16% | 12题)
-**当前进度 Current Progress**: ▰▰▰▰▰▱▱▱▱▱ 50%
+### Domain 3: Understanding Trading, Customer Accounts and Prohibited Activities (31% | 23 questions)
+**Current Progress**: ▱▱▱▱▱▱▱▱▱▱ 0%
 
-| 子主题 Subtopic | 状态 Status | 掌握度 Mastery | 最后学习 Last Studied | 备注 Notes |
-|----------------|-------------|----------------|----------------------|-----------|
-| Market Structure (市场结构) | ✅ 完成 | 🟩 良好掌握 | 2025-12-23 | 一级市场、二级市场、NYSE vs NASDAQ |
-| Economic Factors (经济因素) | ⬜ 未开始 | -- | -- | 货币政策、财政政策 |
-| Offerings (证券发行) | 🟨 部分了解 | 🟧 基本理解 | 2025-12-23 | 了解IPO概念，待深入承销流程 |
-| Regulatory Agencies (监管机构) | ⬜ 未开始 | -- | -- | SEC, FINRA, MSRB, SIPC |
+| Subtopic | Status | Mastery | Last Studied | Notes |
+|---------|--------|--------|--------------|------|
+| Trading & Markets (交易与市场) | ⬜ Not Started | -- | -- | Order types, market structure |
+| Customer Accounts (客户账户) | ⬜ Not Started | -- | -- | Account types, account opening process |
+| Prohibited Activities (禁止行为) | ⬜ Not Started | -- | -- | Insider trading, market manipulation |
 
-**领域笔记 | Domain Notes**:
-- 基础性知识，建议最先学习 ✅ 已开始
-- 为后续其他领域打下概念基础
-- 市场结构已掌握扎实，可继续深入或转向其他领域
+**Domain Notes**:
+- Highly practical; learn best through scenarios and examples.
+- Prohibited Activities (禁止行为) often appear as case-based questions—prioritize careful review.
 
 ---
 
-### Domain 4: Overview of Regulatory Framework (9% | 7题)
-**当前进度 Current Progress**: ▱▱▱▱▱▱▱▱▱▱ 0%
+### Domain 1: Knowledge of Capital Markets (16% | 12 questions)
+**Current Progress**: ▰▰▰▰▰▱▱▱▱▱ 50%
 
-| 子主题 Subtopic | 状态 Status | 掌握度 Mastery | 最后学习 Last Studied | 备注 Notes |
-|----------------|-------------|----------------|----------------------|-----------|
-| Key Acts (主要法案) | ⬜ 未开始 | -- | -- | 1933法案、1934法案 |
-| FINRA Rules | ⬜ 未开始 | -- | -- | 行为准则、报告要求 |
-| SEC Regulations | ⬜ 未开始 | -- | -- | 注册要求、披露规则 |
+| Subtopic | Status | Mastery | Last Studied | Notes |
+|---------|--------|--------|--------------|------|
+| Market Structure (市场结构) | ✅ Completed | 🟩 Good Grasp | 2025-12-23 | Primary Market (一级市场), Secondary Market (二级市场), NYSE vs NASDAQ |
+| Economic Factors (经济因素) | ⬜ Not Started | -- | -- | Monetary policy, fiscal policy |
+| Offerings (证券发行) | 🟨 In Progress | 🟧 Basic Understanding | 2025-12-23 | IPO basics are covered; underwriting process needs deeper study |
+| Regulatory Agencies (监管机构) | ⬜ Not Started | -- | -- | SEC, FINRA, MSRB, SIPC |
 
-**领域笔记 | Domain Notes**:
-- 权重最小但不可忽视
-- 需要记忆具体年份和法规名称
-
----
-
-## 掌握度图例 | Mastery Level Legend
-
-- ⬜ **未开始** | Not Started
-- 🟨 **学习中** | In Progress
-- 🟧 **基本理解** | Basic Understanding (50-70%)
-- 🟩 **良好掌握** | Good Grasp (70-85%)
-- ✅ **完全掌握** | Mastered (85-100%)
-- 🔄 **需复习** | Needs Review
+**Domain Notes**:
+- Foundational domain; starting here is the right move ✅
+- Market Structure (市场结构) is solid; you can either deepen details or pivot to Domain 2 next.
 
 ---
 
-## 已掌握的主题清单 | Mastered Topics Checklist
+### Domain 4: Overview of Regulatory Framework (9% | 7 questions)
+**Current Progress**: ▱▱▱▱▱▱▱▱▱▱ 0%
 
-截至目前，你已完全掌握以下主题：
+| Subtopic | Status | Mastery | Last Studied | Notes |
+|---------|--------|--------|--------------|------|
+| Key Acts (主要法案) | ⬜ Not Started | -- | -- | Securities Act of 1933, Exchange Act of 1934 |
+| FINRA Rules (FINRA 规则) | ⬜ Not Started | -- | -- | Conduct standards, reporting requirements |
+| SEC Regulations (SEC 规则) | ⬜ Not Started | -- | -- | Registration requirements, disclosure rules |
 
-**Domain 1 - Capital Markets:**
-- [ ] 暂无 (None yet)
-
-**Domain 2 - Products & Risks:**
-- [ ] 暂无 (None yet)
-
-**Domain 3 - Trading & Accounts:**
-- [ ] 暂无 (None yet)
-
-**Domain 4 - Regulatory Framework:**
-- [ ] 暂无 (None yet)
-
-**总计已掌握主题数 | Total Mastered Topics**: 0/20+
+**Domain Notes**:
+- Lowest weight, but still testable—don’t skip it.
+- Expect memorization: years, names, and what each rule covers.
 
 ---
 
-## 需要加强的知识点 | Areas Requiring Reinforcement
+## Mastery Level Legend
 
-| 知识点 Topic | 领域 Domain | 问题类型 Issue | 优先级 Priority | 计划行动 Planned Action |
-|-------------|-------------|---------------|----------------|----------------------|
-| 暂无 | -- | -- | -- | -- |
-
----
-
-## 学习会话历史 | Session History
-
-| 日期 Date | 主题 Topic | 时长 Duration | 完成度 Completion | 笔记链接 Notes Link |
-|----------|-----------|--------------|------------------|-------------------|
-| 2025-12-22 | 基础评估 & 普通股vs优先股 | 30分钟 | ✅ 完成 | [Session 1](../sessions/2025-12-22/session-notes.md) |
-| 2025-12-23 | Capital Markets: Primary vs Secondary, NYSE vs NASDAQ | 40分钟 | ✅ 完成 | [Session 2](../sessions/2025-12-23/session-notes.md) |
+- ⬜ **Not Started**
+- 🟨 **In Progress**
+- 🟧 **Basic Understanding** (50–70%)
+- 🟩 **Good Grasp** (70–85%)
+- ✅ **Mastered** (85–100%)
+- 🔄 **Needs Review**
 
 ---
 
-## 练习题统计 | Practice Question Statistics
+## Mastered Topics Checklist
 
-**总答题数 | Total Questions Answered**: 0
-**正确率 | Accuracy Rate**: --%
+**Domain 1 - Capital Markets**:
+- [ ] None yet
 
-### 按领域统计 | By Domain
+**Domain 2 - Products & Risks**:
+- [ ] None yet
 
-| 领域 Domain | 已练习 Practiced | 正确率 Accuracy | 薄弱题型 Weak Areas |
-|------------|-----------------|----------------|-------------------|
+**Domain 3 - Trading & Accounts**:
+- [ ] None yet
+
+**Domain 4 - Regulatory Framework**:
+- [ ] None yet
+
+**Total Mastered Topics**: 0/20+
+
+---
+
+## Areas Requiring Reinforcement
+
+| Topic | Domain | Issue Type | Priority | Planned Action |
+|------|--------|-----------|----------|----------------|
+| None | -- | -- | -- | -- |
+
+---
+
+## Session History
+
+| Date | Topic | Duration | Completion | Notes |
+|------|------|----------|------------|------|
+| 2025-12-22 | Baseline assessment & Common Stock (普通股) vs Preferred Stock (优先股) | 30 min | ✅ Completed | [Session 1](../sessions/2025-12-22/session-notes.md) |
+| 2025-12-23 | Capital Markets: Primary vs Secondary, NYSE vs NASDAQ | 40 min | ✅ Completed | [Session 2](../sessions/2025-12-23/session-notes.md) |
+
+---
+
+## Practice Question Statistics
+
+**Total Questions Answered**: 0  
+**Accuracy Rate**: --%
+
+### By Domain
+
+| Domain | Practiced | Accuracy | Weak Areas |
+|--------|----------:|---------:|-----------|
 | Capital Markets | 0 | -- | -- |
 | Products & Risks | 0 | -- | -- |
 | Trading & Accounts | 0 | -- | -- |
 | Regulatory Framework | 0 | -- | -- |
 
-### 按题型统计 | By Question Type
+### By Question Type
 
-| 题型 Type | 已练习 Practiced | 正确率 Accuracy |
-|----------|-----------------|----------------|
-| 概念理解 Conceptual | 0 | -- |
-| 场景应用 Scenario | 0 | -- |
-| 计算题 Calculation | 0 | -- |
-| 对比辨析 Comparison | 0 | -- |
-
----
-
-## 模拟考试记录 | Mock Exam Records
-
-| 日期 Date | 分数 Score | 正确率 Accuracy | 薄弱领域 Weak Domains | 详细分析 Analysis Link |
-|----------|-----------|----------------|---------------------|----------------------|
-| 暂无 | -- | -- | -- | -- |
-
-**建议 Recommendations**:
-- 在完成 60% 学习内容后进行第一次模拟考试
-- 最后两周至少完成 3 次全真模拟考试
+| Type | Practiced | Accuracy |
+|------|----------:|---------:|
+| Conceptual | 0 | -- |
+| Scenario | 0 | -- |
+| Calculation | 0 | -- |
+| Comparison | 0 | -- |
 
 ---
 
-## 当前学习阶段 | Current Study Phase
+## Mock Exam Records
 
-**阶段 Phase**: 🟡 基础建立期 | Foundation Phase (刚开始)
+| Date | Score | Accuracy | Weak Domains | Analysis |
+|------|------:|---------:|-------------|---------|
+| None | -- | -- | -- | -- |
 
-### 学习阶段定义 | Study Phase Definitions
-
-- 🔵 **准备启动** | Ready to Start (0-5%)
-- 🟡 **基础建立期** | Foundation Phase (5-30%)
-  - 重点：Capital Markets + Equity Securities
-
-- 🟠 **核心知识期** | Core Knowledge Phase (30-60%)
-  - 重点：Debt Securities, Municipal Bonds, Options, Investment Companies
-
-- 🟢 **综合提升期** | Integration Phase (60-85%)
-  - 重点：Trading & Accounts, Regulatory Framework, 知识整合
-
-- 🟣 **冲刺期** | Sprint Phase (85-100%)
-  - 重点：模拟考试、弱项强化、考前复习
+**Recommendations**:
+- Take your first mock exam after reaching ~60% content coverage.
+- In the final two weeks, complete at least 3 full mock exams.
 
 ---
 
-## 每周学习目标 | Weekly Study Goals
+## Current Study Phase
 
-### 本周目标 | This Week's Goals
-**周数 Week**: 1
-**日期范围 Date Range**: [待填写]
+**Phase**: 🟡 Foundation Phase
 
-- [ ] 目标 1: [待设定]
-- [ ] 目标 2: [待设定]
-- [ ] 目标 3: [待设定]
+### Study Phase Definitions
 
-**实际完成情况 Actual Completion**: [周末填写]
-
----
-
-## 学习计划调整记录 | Study Plan Adjustment Log
-
-| 日期 Date | 原计划 Original Plan | 调整内容 Adjustment | 原因 Reason |
-|----------|---------------------|-------------------|------------|
-| 示例 | 完成 Options 学习 | 延长 2 天 | 概念较难，需更多练习 |
+- 🔵 **Ready to Start** (0–5%)
+- 🟡 **Foundation Phase** (5–30%)
+  - Focus: Capital Markets, Equity Securities (股票证券)
+- 🟠 **Core Knowledge Phase** (30–60%)
+  - Focus: Debt Securities (债务证券), Municipal Bonds (市政债券), Options (期权), Investment Companies (投资公司)
+- 🟢 **Integration Phase** (60–85%)
+  - Focus: Trading & Accounts, Regulatory Framework, integration & mixed practice
+- 🟣 **Sprint Phase** (85–100%)
+  - Focus: mock exams, weak-area drills, final review
 
 ---
 
-## 关键里程碑 | Key Milestones
+## Weekly Study Goals
 
-- [ ] **里程碑 1**: 完成 Domain 1 学习 (目标: Week 2)
-- [ ] **里程碑 2**: 完成 Equity Securities 学习 (目标: Week 4)
-- [ ] **里程碑 3**: 完成 Domain 2 全部内容 (目标: Week 8)
-- [ ] **里程碑 4**: 第一次模拟考试达到 60% (目标: Week 9)
-- [ ] **里程碑 5**: 完成所有四大领域学习 (目标: Week 12)
-- [ ] **里程碑 6**: 模拟考试稳定达到 75% (目标: Week 14)
-- [ ] **里程碑 7**: 参加正式 SIE 考试 (目标: Week 16)
+### This Week
+**Week**: 1  
+**Date Range**: [TBD]
 
----
+- [ ] Goal 1: [TBD]
+- [ ] Goal 2: [TBD]
+- [ ] Goal 3: [TBD]
 
-## 学习资源使用记录 | Learning Resources Usage
-
-| 资源 Resource | 使用频率 Frequency | 有效性评分 Effectiveness | 备注 Notes |
-|--------------|-------------------|------------------------|-----------|
-| STC 课本 | -- | -- | -- |
-| 本项目 domains/ | -- | -- | -- |
-| 在线练习题 | -- | -- | -- |
-| Claude 互动学习 | -- | -- | -- |
+**Actual Completion**: [Fill in at week end]
 
 ---
 
-## 个人学习笔记 | Personal Study Notes
+## Study Plan Adjustment Log
 
-### 学习心得 | Learning Insights
-- **2025-12-22**: "Preferred"在金融领域不是指投票权优先，而是指分红和清算时的优先权。这个概念一开始有点反直觉！
-- **2025-12-23**: Primary Market公司只募资一次（发行时），之后Secondary Market的交易都是投资者之间的，公司不再获得资金。这解释了为什么公司要珍惜IPO机会！
-
-### 易混淆概念对比 | Easily Confused Concepts
-
-| 概念A | 概念B | 关键区别 |
-|------|------|---------|
-| Common Stock (普通股) | Preferred Stock (优先股) | 有投票权但分红排后 vs 无投票权但分红优先 |
-| Primary Market (一级市场) | Secondary Market (二级市场) | 公司发行新证券募资 vs 投资者之间交易已发行证券 |
-| NYSE | NASDAQ | Auction Market拍卖市场 vs Dealer Market做市商市场 |
-| Dividend (股息) | Stock Buyback (回购) | 直接分钱、需纳税 vs 间接回报、延迟纳税 |
-
-### 记忆技巧 | Memory Aids
-- **Preferred = Priority in Money** (优先股 = 拿钱优先，不是投票优先)
-- **Common = Common people vote** (普通股 = 普通人有投票权)
-- **Primary = Company gets Primary cash** (一级市场 = 公司获得首次资金)
-- **Secondary = Second hand trading** (二级市场 = 二手交易)
-- **NYSE = Old (1792), Traditional** (纽交所 = 老牌传统)
-- **NASDAQ = New (1971), Tech** (纳斯达克 = 新兴科技)
-- **Buyback → Fewer shares → Higher EPS** (回购 → 股数减少 → 每股收益提高)
+| Date | Original Plan | Adjustment | Reason |
+|------|---------------|-----------|--------|
+| Example | Finish Options (期权) | Extend by 2 days | Concepts were harder than expected; needed more practice |
 
 ---
 
-## 激励追踪 | Motivation Tracker
+## Key Milestones
 
-**学习连续天数 | Study Streak**: 2 天 🔥🔥
-
-**每周学习时间 | Weekly Study Hours**:
-- Week 1: 1.2 小时 (Day 1: 30min, Day 2: 40min)
-- Week 2: -- 小时
-- Week 3: -- 小时
-
-**成就徽章 | Achievement Badges**:
-- [x] 🎯 完成第一个主题 (Preferred vs Common Stock)
-- [x] 🏛️ 掌握市场结构 (Primary vs Secondary Markets)
-- [x] 📊 理解交易所差异 (NYSE vs NASDAQ)
-- [ ] 📚 连续学习 7 天
-- [ ] 💯 首次练习题正确率达到 80%
-- [ ] 🏆 完成第一次模拟考试
-- [ ] 🌟 模拟考试达到 70%
-- [ ] 🎓 准备就绪，预约考试！
+- [ ] **Milestone 1**: Finish Domain 1 (target: Week 2)
+- [ ] **Milestone 2**: Finish Equity Securities (股票证券) (target: Week 4)
+- [ ] **Milestone 3**: Finish all of Domain 2 (target: Week 8)
+- [ ] **Milestone 4**: First mock exam ≥ 60% (target: Week 9)
+- [ ] **Milestone 5**: Finish all four domains (target: Week 12)
+- [ ] **Milestone 6**: Mock exam stability ≥ 75% (target: Week 14)
+- [ ] **Milestone 7**: Take the SIE exam (target: Week 16)
 
 ---
 
-## 下一步行动计划 | Next Action Items
+## Learning Resources Usage
 
-**优先级顺序 | Priority Order**:
-
-1. **立即行动 | Immediate**:
-   - [x] 设定正式的学习开始日期 ✅
-   - [x] 创建第一份学习会话笔记 ✅
-   - [x] 开始 Capital Markets 基础概念 ✅
-   - [ ] 下一次会话：选择 (A) 深入Equity Securities, (B) 继续Capital Markets, 或 (C) 开始Debt Securities
-
-2. **本周内 | This Week**:
-   - [x] 开始了解 Capital Markets 基础概念 ✅
-   - [ ] 继续学习 Domain 1 或 Domain 2
-   - [ ] 完成 5-10 道练习题（市场结构或股票相关）
-   - [ ] 保持学习连续性（已2天🔥）
-
-3. **本月内 | This Month**:
-   - [ ] 完成 Domain 1 - Capital Markets 全部内容
-   - [ ] 完成 Equity Securities 深入学习
-   - [ ] 开始 Debt Securities (债券)
-   - [x] 建立每日学习习惯 ✅ (进行中)
+| Resource | Frequency | Effectiveness | Notes |
+|----------|----------:|--------------:|------|
+| STC textbook | -- | -- | -- |
+| This repo `domains/` | -- | -- | -- |
+| Online question banks | -- | -- | -- |
+| AI study sessions | -- | -- | -- |
 
 ---
 
-## 备注 | Additional Notes
+## Personal Study Notes
 
-### 学习时间安排建议 | Suggested Study Schedule
+### Learning Insights
+- **2025-12-22**: “Preferred” in finance refers to priority in dividends and liquidation (not voting priority). This was counterintuitive at first.
+- **2025-12-23**: In the Primary Market (一级市场) a company raises money when it issues securities; in the Secondary Market (二级市场), trading happens between investors and the company does not receive proceeds—explains why IPOs matter so much.
 
-**工作日 | Weekdays**:
-- 建议每天 1.5-2 小时
-- 早晨或晚上固定时间段
+### Easily Confused Concepts
 
-**周末 | Weekends**:
-- 建议每天 3-4 小时
-- 可进行更深入的主题学习和练习
+| Concept A | Concept B | Key Difference |
+|----------|-----------|----------------|
+| Common Stock (普通股) | Preferred Stock (优先股) | Voting rights but junior for dividends vs typically no voting rights but senior for dividends |
+| Primary Market (一级市场) | Secondary Market (二级市场) | Issuer sells new securities vs investors trade outstanding securities |
+| NYSE | NASDAQ | Auction market vs dealer market |
+| Dividend (股息) | Stock Buyback (回购) | Direct cash distribution (taxable) vs indirect return (often tax-deferred) |
 
-**总计 | Total**:
-- 每周约 15-20 小时
-- 3-4 个月总计 180-320 小时
-
----
-
-**记住 | Remember**:
-- 📈 学习是一个循序渐进的过程，不要急于求成
-- 🎯 理解 > 记忆，质量 > 数量
-- 💪 坚持每天学习，积少成多
-- 🤝 充分利用 Claude 作为学习伙伴，遇到问题随时提问
-
-**你能做到！| You can do it!** 🚀
+### Memory Aids
+- **Preferred Stock (优先股) = priority in money**
+- **Common Stock (普通股) = common people vote**
+- **Primary Market (一级市场) = company gets primary cash**
+- **Secondary Market (二级市场) = second-hand trading**
+- **NYSE = old (1792), traditional**
+- **NASDAQ = newer (1971), tech-heavy**
+- **Stock Buyback (回购) → fewer shares → higher EPS**
 
 ---
 
-*本进度追踪器应在每次学习会话后更新 | This tracker should be updated after each study session*
+## Motivation Tracker
+
+**Study Streak**: 2 days
+
+**Weekly Study Hours**:
+- Week 1: 1.2 hours (Day 1: 30 min, Day 2: 40 min)
+- Week 2: --
+- Week 3: --
+
+**Achievement Badges**:
+- [x] 🎯 Completed first topic: Preferred Stock (优先股) vs Common Stock (普通股)
+- [x] 🏛️ Solid on Market Structure (市场结构): Primary vs Secondary
+- [x] 📊 Understood exchange differences: NYSE vs NASDAQ
+- [ ] 📚 7-day study streak
+- [ ] 💯 First practice set accuracy ≥ 80%
+- [ ] 🏆 Completed first mock exam
+- [ ] 🌟 Mock exam ≥ 70%
+- [ ] 🎓 Ready—schedule the exam
+
+---
+
+## Next Action Items
+
+**Priority Order**:
+
+1. **Immediate**
+   - [x] Set an official study start date ✅
+   - [x] Create the first session notes ✅
+   - [x] Start Capital Markets fundamentals ✅
+   - [ ] Next session: choose (A) deepen Equity Securities (股票证券), (B) continue Capital Markets, or (C) start Debt Securities (债务证券)
+
+2. **This Week**
+   - [x] Start Capital Markets fundamentals ✅
+   - [ ] Continue Domain 1 or Domain 2
+   - [ ] Complete 5–10 practice questions (Market Structure (市场结构) or Equity Securities (股票证券))
+   - [ ] Maintain study streak
+
+3. **This Month**
+   - [ ] Finish Domain 1 - Capital Markets
+   - [ ] Deepen Equity Securities (股票证券)
+   - [ ] Start Debt Securities (债务证券)
+   - [x] Build a daily study habit ✅ (in progress)
+
+---
+
+## Additional Notes
+
+### Suggested Study Schedule
+
+**Weekdays**:
+- Aim for 1.5–2 hours/day
+- Use a fixed time block (morning or evening)
+
+**Weekends**:
+- Aim for 3–4 hours/day
+- Use weekends for deeper topics and practice blocks
+
+**Total**:
+- ~15–20 hours/week
+- ~180–320 hours over 3–4 months
+
+---
+
+**Remember**:
+- 📈 Progress compounds—stay consistent.
+- 🎯 Understanding > memorization; quality > quantity.
+- 💪 Small daily sessions add up.
+- 🤝 Use your AI partner when you’re stuck—ask immediately.
+
+---
+
+*Update this tracker after each study session.*
+
