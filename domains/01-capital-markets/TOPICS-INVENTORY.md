@@ -4,7 +4,7 @@
 >
 > **Last Updated**: 2025-12-24
 >
-> **Overall Domain Progress**: ▰▰▰▰▰▱▱▱▱▱ 50%
+> **Overall Domain Progress**: ▰▰▰▰▰▰▰▰▱▱ 75%
 
 ---
 
@@ -13,8 +13,8 @@
 | Topic | Status | File Exists | Questions | Session Date | Notes |
 |-------|--------|-------------|-----------|--------------|-------|
 | Market Structure (市场结构) | ✅ Taught | ❌ No | 10 | 2025-12-23 | Primary vs Secondary, NYSE vs NASDAQ - STRONG understanding |
+| Offerings & Underwriting (证券发行与承销) | ✅ Taught | ✅ Yes | 10 | 2025-12-24 | Firm Commitment vs Best Efforts, Syndicate structure, SEC role - 100% verification |
 | Regulatory Agencies (监管机构) | ⬜ Pending | ❌ No | 0 | -- | SEC, FINRA, MSRB, SIPC roles |
-| Types of Offerings (证券发行) | 🟨 Partial | ❌ No | 0 | 2025-12-23 | IPO mentioned, underwriting process not yet covered |
 | Economic Factors (经济因素) | ⬜ Pending | ❌ No | 0 | -- | Monetary/fiscal policy, indicators |
 
 ---
@@ -34,13 +34,13 @@
 
 ## Progress Summary | 进度总结
 
-**Completed Topics**: 1 / 4 (25% taught, but domain shows 50% due to strong mastery of market structure)
+**Completed Topics**: 2 / 4 (50% taught, domain shows 75% due to strong mastery)
 
-**Topics with Files**: 0 / 4
+**Topics with Files**: 1 / 4 (Offerings & Underwriting topic file created)
 
-**Total Practice Questions**: 10 (all in domain-01/sample-questions.md, primarily market structure)
+**Total Practice Questions**: 20 (10 Market Structure in domain-01/sample-questions.md, 10 Offerings in by-topic/)
 
-**Estimated Time to Complete Domain**: 2-3 more sessions (~2 hours)
+**Estimated Time to Complete Domain**: 1-2 more sessions (~1-1.5 hours)
 
 ---
 
@@ -64,12 +64,12 @@
 
 ### Priority 2: Deepen Partial Understanding
 
-**Option C: Types of Offerings (Deep Dive)**
-- **Why**: Build on IPO knowledge from Dec 23 session
-- **Prerequisites**: Market Structure (✅ completed)
-- **Estimated Time**: 1 session (30-40 min)
-- **Key Learning**: IPO process, underwriting methods, secondary offerings, private placements
-- **Connection**: Completes primary market understanding
+**Option C: Move to Domain 2 - Debt Securities** 🎯 New Recommendation
+- **Why**: Domain 1 is 75% complete; Domain 2 has highest exam weight (44%)
+- **Prerequisites**: Market Structure (✅ completed), Offerings (✅ completed)
+- **Estimated Time**: 1 session (40-50 min)
+- **Key Learning**: Bonds, interest rates, bond pricing, types of debt securities
+- **Connection**: Builds on primary/secondary market knowledge
 
 ---
 
@@ -110,25 +110,29 @@ Market Structure (✅ DONE)
 ## Content Generation Backlog | 内容生成待办
 
 ### Immediate (from already-taught topics):
-- [x] ~~Generate topic file~~ for Market Structure (Session 2025-12-23)
+- [x] ~~Generate topic file for Offerings & Underwriting~~ ✅ DONE 2025-12-24
+  - File: domains/01-capital-markets/topics/offerings-and-underwriting.md
+
+- [x] ~~Generate 10 practice questions for Offerings & Underwriting~~ ✅ DONE 2025-12-24
+  - File: practice/questions/by-topic/offerings-and-underwriting.md
+
+- [ ] Generate topic file for Market Structure (Session 2025-12-23)
   - Status: PENDING - needs to be created from session notes
-  - Priority: HIGH - capture learning while fresh
+  - Priority: MEDIUM (topic is well-mastered, but file good for review)
 
 - [ ] Generate 10 additional practice questions for Market Structure
   - Current: 10 questions in domain-01/sample-questions.md
   - Target: 20 total (10 more needed)
-  - Priority: MEDIUM
+  - Priority: LOW (already has 10 questions)
 
 - [ ] Create by-topic question file: `practice/questions/by-topic/market-structure.md`
-  - Priority: MEDIUM
+  - Priority: LOW
 
 ### Future (for pending topics):
 - [ ] Topic file: Regulatory Agencies
 - [ ] 10 practice questions: Regulatory Agencies
 - [ ] Topic file: Economic Factors
 - [ ] 10 practice questions: Economic Factors
-- [ ] Topic file: Types of Offerings (expand from partial)
-- [ ] 10 practice questions: Types of Offerings
 
 ---
 
@@ -219,19 +223,19 @@ DOMAIN 1: CAPITAL MARKETS (16%)
 
 ## Statistics | 统计数据
 
-**Teaching Sessions**: 1 full session, 1 partial mention
+**Teaching Sessions**: 2 full sessions
 
-**Total Study Time on Domain 1**: ~40 minutes
+**Total Study Time on Domain 1**: ~100 minutes (1.67 hours)
 
-**Average Session Length**: 40 minutes
+**Average Session Length**: 50 minutes
 
 **Topics Completed per Session**: 1.0
 
-**Questions Generated**: 10
+**Questions Generated**: 20 (10 Market Structure, 10 Offerings)
 
-**Files Created**: 0 topic files (backlog item)
+**Files Created**: 1 topic file (Offerings & Underwriting)
 
-**Estimated Completion Date**: Week 2-3 (if 1 session/week on Domain 1)
+**Estimated Completion Date**: Week 1-2 (75% complete, 1-2 sessions remaining)
 
 ---
 

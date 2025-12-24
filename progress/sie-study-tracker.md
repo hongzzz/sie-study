@@ -1,6 +1,6 @@
 # SIE Study Progress Tracker
 
-> Last Updated: 2025-12-23
+> Last Updated: 2025-12-24
 >
 > Study Start Date: 2025-12-22
 >
@@ -31,11 +31,11 @@
 ## Overall Progress Overview
 
 ```
-Overall Progress: ▰▰▱▱▱▱▱▱▱▱ 8%
+Overall Progress: ▰▰▱▱▱▱▱▱▱▱ 10%
 
 Estimated Completion: ~16 weeks (assuming 30 minutes/day)
-Days Studied: 2
-Days Remaining: ~108 days
+Days Studied: 3
+Days Remaining: ~107 days
 ```
 
 ---
@@ -76,13 +76,13 @@ Days Remaining: ~108 days
 ---
 
 ### Domain 1: Knowledge of Capital Markets (16% | 12 questions)
-**Current Progress**: ▰▰▰▰▰▱▱▱▱▱ 50%
+**Current Progress**: ▰▰▰▰▰▰▰▰▱▱ 75%
 
 | Subtopic | Status | Mastery | Last Studied | Notes |
 |---------|--------|--------|--------------|------|
 | Market Structure (市场结构) | ✅ Completed | 🟩 Good Grasp | 2025-12-23 | Primary Market (一级市场), Secondary Market (二级市场), NYSE vs NASDAQ |
 | Economic Factors (经济因素) | ⬜ Not Started | -- | -- | Monetary policy, fiscal policy |
-| Offerings (证券发行) | 🟨 In Progress | 🟧 Basic Understanding | 2025-12-23 | IPO basics are covered; underwriting process needs deeper study |
+| Offerings & Underwriting (证券发行与承销) | ✅ Completed | 🟩 Good Grasp | 2025-12-24 | Firm Commitment vs Best Efforts, Syndicate structure, SEC role - STRONG 100% on verification |
 | Regulatory Agencies (监管机构) | ⬜ Not Started | -- | -- | SEC, FINRA, MSRB, SIPC |
 
 **Domain Notes**:
@@ -149,6 +149,7 @@ Days Remaining: ~108 days
 |------|------|----------|------------|------|
 | 2025-12-22 | Baseline assessment & Common Stock (普通股) vs Preferred Stock (优先股) | 30 min | ✅ Completed | [Session 1](../sessions/2025-12-22/session-notes.md) |
 | 2025-12-23 | Capital Markets: Primary vs Secondary, NYSE vs NASDAQ | 40 min | ✅ Completed | [Session 2](../sessions/2025-12-23/session-notes.md) |
+| 2025-12-24 | Offerings & Underwriting: IPO Process, Firm Commitment vs Best Efforts, Syndicate | 60 min | ✅ Completed | [Session 3](../sessions/2025-12-24/session-notes.md) - 100% accuracy on verification |
 
 ---
 
@@ -255,8 +256,9 @@ Days Remaining: ~108 days
 ## Personal Study Notes
 
 ### Learning Insights
-- **2025-12-22**: “Preferred” in finance refers to priority in dividends and liquidation (not voting priority). This was counterintuitive at first.
+- **2025-12-22**: "Preferred" in finance refers to priority in dividends and liquidation (not voting priority). This was counterintuitive at first.
 - **2025-12-23**: In the Primary Market (一级市场) a company raises money when it issues securities; in the Secondary Market (二级市场), trading happens between investors and the company does not receive proceeds—explains why IPOs matter so much.
+- **2025-12-24**: In Firm Commitment, ownership of securities transfers to the underwriter BEFORE public sale - the company gets guaranteed money upfront regardless of market performance. This is THE key difference from Best Efforts where the company only gets what actually sells.
 
 ### Easily Confused Concepts
 
@@ -266,6 +268,9 @@ Days Remaining: ~108 days
 | Primary Market (一级市场) | Secondary Market (二级市场) | Issuer sells new securities vs investors trade outstanding securities |
 | NYSE | NASDAQ | Auction market vs dealer market |
 | Dividend (股息) | Stock Buyback (回购) | Direct cash distribution (taxable) vs indirect return (often tax-deferred) |
+| Firm Commitment (包销) | Best Efforts (代销) | Underwriter BUYS & assumes risk vs Underwriter SELLS as agent, issuer assumes risk |
+| Syndicate Members | Selling Group | Purchase securities & assume risk vs Only sell, no risk, agent role |
+| SEC Approval | SEC Recommendation | Disclosure adequate vs SEC never recommends investments |
 
 ### Memory Aids
 - **Preferred Stock (优先股) = priority in money**
@@ -275,15 +280,20 @@ Days Remaining: ~108 days
 - **NYSE = old (1792), traditional**
 - **NASDAQ = newer (1971), tech-heavy**
 - **Stock Buyback (回购) → fewer shares → higher EPS**
+- **Firm Commitment = FIRMLY guaranteed money for company**
+- **Best Efforts = BEST try, but no guarantee**
+- **Principal vs Agent: Principal Purchases, Agent Assists**
+- **Lead-Syndicate-Selling (L-S-S) = Large, Small, Smallest (risk & compensation)**
+- **SEC = referee ensuring disclosure rules, NOT coach telling you which team to bet on**
 
 ---
 
 ## Motivation Tracker
 
-**Study Streak**: 2 days
+**Study Streak**: 3 days 🔥
 
 **Weekly Study Hours**:
-- Week 1: 1.2 hours (Day 1: 30 min, Day 2: 40 min)
+- Week 1: 2.2 hours (Day 1: 30 min, Day 2: 40 min, Day 3: 60 min)
 - Week 2: --
 - Week 3: --
 
@@ -291,6 +301,7 @@ Days Remaining: ~108 days
 - [x] 🎯 Completed first topic: Preferred Stock (优先股) vs Common Stock (普通股)
 - [x] 🏛️ Solid on Market Structure (市场结构): Primary vs Secondary
 - [x] 📊 Understood exchange differences: NYSE vs NASDAQ
+- [x] 💼 Mastered Offerings & Underwriting - 100% verification accuracy
 - [ ] 📚 7-day study streak
 - [ ] 💯 First practice set accuracy ≥ 80%
 - [ ] 🏆 Completed first mock exam
@@ -307,19 +318,21 @@ Days Remaining: ~108 days
    - [x] Set an official study start date ✅
    - [x] Create the first session notes ✅
    - [x] Start Capital Markets fundamentals ✅
-   - [ ] Next session: choose (A) deepen Equity Securities (股票证券), (B) continue Capital Markets, or (C) start Debt Securities (债务证券)
+   - [x] Complete Offerings & Underwriting ✅
+   - [ ] **Next session**: Complete Domain 1 (Regulatory Agencies or Economic Factors) OR move to Domain 2 (Debt Securities - highest weight)
 
 2. **This Week**
    - [x] Start Capital Markets fundamentals ✅
-   - [ ] Continue Domain 1 or Domain 2
-   - [ ] Complete 5–10 practice questions (Market Structure (市场结构) or Equity Securities (股票证券))
-   - [ ] Maintain study streak
+   - [x] Make significant progress in Domain 1 ✅ (75% complete)
+   - [ ] **Recommended**: Finish Domain 1 (1 more session on Regulatory Agencies or Economic Factors)
+   - [ ] Complete 5–10 practice questions on Offerings & Underwriting
+   - [x] Maintain study streak ✅ (3 days)
 
 3. **This Month**
-   - [ ] Finish Domain 1 - Capital Markets
-   - [ ] Deepen Equity Securities (股票证券)
-   - [ ] Start Debt Securities (债务证券)
-   - [x] Build a daily study habit ✅ (in progress)
+   - [ ] Finish Domain 1 - Capital Markets (75% → 100%)
+   - [ ] Start and make progress on Domain 2 (Debt Securities → Municipal Bonds → Equity deeper)
+   - [ ] Complete at least 30 practice questions total
+   - [x] Build a daily study habit ✅ (strong 3-day streak)
 
 ---
 
