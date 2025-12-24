@@ -237,9 +237,9 @@ Questions:
 
 ---
 
-### Step 2: Generate Practice Questions (3-5 minutes)
+### Step 2: Generate Practice Questions (2-3 minutes)
 
-**Generate 5-10 questions** based on today's session:
+**Generate 5-10 questions** based on today's session (**Default: 5 questions**):
 
 1. **Open template**: [`.templates/question-template.md`](.templates/question-template.md)
 
@@ -265,7 +265,8 @@ Questions:
 - ✅ Base questions on actual session discussion
 - ✅ Reuse scenarios from teaching
 - ✅ Simple explanations (not essays!)
-- ✅ Quality over quantity (5 good > 10 mediocre)
+- ✅ **Quality over quantity**: 5 high-quality questions > 10 mediocre ones
+- ✅ **Default to 5 questions** - only create 10 if topic is very complex or time permits
 
 ---
 
@@ -327,26 +328,30 @@ Questions:
 
 ---
 
-### Step 5: Create Session Notes (1 minute)
+### Step 5: Create Session Notes (1-2 minutes)
 
 **File**: `sessions/2025-MM-DD/session-notes.md`
 
-**Use Template**: [`sessions/template/session-notes.md`](sessions/template/session-notes.md)
+**Use NEW minimal template**: [`sessions/template/session-notes-minimal.md`](sessions/template/session-notes-minimal.md)
 
-**Quick Version** (focus on these sections):
-- [ ] Session metadata (date, topic, duration)
-- [ ] Topics covered (bullet list)
-- [ ] Key concepts learned
-- [ ] Student's baseline knowledge (from pre-assessment)
-- [ ] Aha moments (the "lightbulb" moments)
-- [ ] Challenges & how resolved
-- [ ] Mastery level achieved
-- [ ] Next session recommendations
+**CRITICAL**: Session notes are a **SUMMARY/INDEX only** (target: **50-100 lines**)
 
-**Skip or keep brief**:
-- Full transcript (unnecessary)
-- Extensive examples (already in topic file)
-- Minor details
+**Quick Version** (include ONLY these):
+- [ ] Session metadata (date, topic, duration, materials generated links)
+- [ ] Student's baseline knowledge (brief - 1-2 sentences)
+- [ ] Key breakthrough moments (3-5 bullet points)
+- [ ] Challenges encountered & how resolved (2-3 bullet points)
+- [ ] Mastery assessment (simple table)
+- [ ] Next session recommendations (2-3 lines)
+
+**DO NOT include** (these go in topic file):
+- ❌ Detailed teaching flow or transcript
+- ❌ Extensive examples and scenarios (already in topic file)
+- ❌ Full student performance analysis
+- ❌ Teaching effectiveness review
+- ❌ Lengthy reflections
+
+**Remember**: Session notes = summary. Topic file = detailed content.
 
 ---
 
@@ -398,13 +403,14 @@ git push origin main
 | **Pre-Session** | 1-2 min | Orientation, review, planning |
 | **Teaching** | 30-45 min | Socratic method, interactive learning |
 | **Topic file** | 2-3 min | Only if new topic taught |
-| **Questions** | 3-5 min | 5-10 questions, use template |
+| **Questions** | 2-3 min | Default 5 questions (10 if complex) |
 | **Progress tracker** | 2 min | Key updates only |
 | **Topic inventory** | 1 min | Update status table |
-| **Session notes** | 1 min | Quick version, key points |
+| **Session notes** | 1-2 min | Minimal template (50-100 lines) |
 | **Git commit/push** | 1-2 min | Structured message |
 | **TOTAL** | **40-60 min** | **Sustainable pace!** |
 
+**Documentation breakdown**: 7-10 min (optimized from previous 14-21 min)
 **If no new topic file**: 5-7 min documentation instead of 10
 
 ---

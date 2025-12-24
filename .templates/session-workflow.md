@@ -164,21 +164,20 @@ Questions:
 
 ---
 
-### Step 2: Generate Practice Questions (3-5 minutes)
+### Step 2: Generate Practice Questions (2-3 minutes)
 
-**Generate 5-10 questions** based on session:
+**Generate 5-10 questions** based on session (**Default: 5 questions**):
 
 1. Open template: `.templates/question-template.md`
 2. Create TWO files:
    - `/practice/questions/by-topic/[topic-name].md`
    - Add to `/practice/questions/domain-[XX]/[file].md`
 
-**Quick Generation**:
-- **Conceptual** (2-3 questions): "Which best describes [term]?"
-- **Scenario** (2-3 questions): Base on session scenarios
-- **Calculation** (if applicable, 1-2): From examples discussed
-- **Comparison** (1-2): On concepts compared in session
-- **EXCEPT** (optional, 1): Good for comprehensive check
+**Quick Generation** (for 5 questions):
+- **Conceptual** (2 questions): "Which best describes [term]?"
+- **Scenario** (2 questions): Base on session scenarios
+- **Calculation** (1 if applicable) OR **Comparison** (1): On concepts compared
+- **Optional**: Add EXCEPT question or expand to 10 if topic is very complex
 
 **For Each Question**:
 - Write question stem and 4 options (1 min)
@@ -191,7 +190,8 @@ Questions:
 - Base on actual session discussion
 - Reuse scenarios from teaching
 - Simple explanations, not essays
-- Focus on quality over quantity (5 good questions > 10 mediocre)
+- **Quality over quantity**: 5 high-quality questions > 10 mediocre ones
+- **Default to 5 questions** - only create 10 if topic is very complex or time permits
 
 ---
 
@@ -250,26 +250,30 @@ Questions:
 
 ---
 
-### Step 5: Create/Update Session Notes (1 minute)
+### Step 5: Create/Update Session Notes (1-2 minutes)
 
 **File**: `/sessions/2025-MM-DD/session-notes.md`
 
-**Quick Version** (not full template):
-- Copy template structure
-- Fill only key sections:
-  - Session metadata (date, topic, duration)
-  - Topics covered (bullet list)
-  - Key concepts learned
-  - Student's baseline knowledge
-  - Aha moments
-  - Challenges & how resolved
-  - Mastery level achieved
-  - Next session recommendations
+**Use NEW minimal template**: `sessions/template/session-notes-minimal.md`
 
-**Skip or keep brief**:
-- Detailed session transcript
-- Extensive examples (already in topic file)
-- Minor discussion points
+**CRITICAL**: Session notes are a **SUMMARY/INDEX only** (target: **50-100 lines**)
+
+**Include ONLY**:
+- Session metadata (date, topic, duration, materials generated links)
+- Student's baseline knowledge (brief - 1-2 sentences)
+- Key breakthrough moments (3-5 bullet points)
+- Challenges encountered & how resolved (2-3 bullet points)
+- Mastery assessment (simple table)
+- Next session recommendations (2-3 lines)
+
+**DO NOT include** (these belong in topic file):
+- ❌ Detailed teaching flow or transcript
+- ❌ Extensive examples and scenarios (already in topic file)
+- ❌ Full student performance analysis
+- ❌ Teaching effectiveness review
+- ❌ Lengthy reflections or personal teaching notes
+
+**Remember**: Detailed teaching content → topic file. Session notes → quick summary.
 
 ---
 
@@ -318,13 +322,17 @@ git push origin main
 | Task | Time | Running Total |
 |------|------|---------------|
 | Generate topic file (if new) | 2-3 min | 3 min |
-| Generate 5-10 practice questions | 3-5 min | 8 min |
-| Update progress tracker | 2 min | 10 min |
-| Update topic inventory | 1 min | 11 min |
-| Create session notes | 1 min | 12 min |
+| Generate practice questions (default 5) | 2-3 min | 6 min |
+| Update progress tracker | 2 min | 8 min |
+| Update topic inventory | 1 min | 9 min |
+| Create session notes (minimal) | 1-2 min | 11 min |
 | Commit & push | 1-2 min | **7-10 min** |
 
 **Note**: If continuing existing topic (no new topic file), total time is **5-7 minutes**.
+
+**Optimization**: Reduced from previous 14-21 min by:
+- Session notes: 50-100 lines (vs 800+ lines) = saves 4-5 min
+- Questions: Default 5 (vs 10) = saves 1-2 min
 
 ---
 

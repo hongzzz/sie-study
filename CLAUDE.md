@@ -132,6 +132,73 @@ Progress from simple to complex, concrete to abstract.
 
 ---
 
+## What Goes Where: Content Organization Guide
+
+**CRITICAL**: To avoid duplication and save time, understand what content belongs in which file.
+
+### Topic File (Comprehensive, 300-500 lines)
+
+**Purpose**: Complete teaching reference for the topic
+
+**Contains**:
+- ✅ Detailed concept explanations (core concepts section)
+- ✅ Teaching scenarios with full details and numbers
+- ✅ Comparison tables (Firm vs Best, Common vs Preferred, etc.)
+- ✅ Practice scenarios with solutions
+- ✅ Memory aids and mnemonics
+- ✅ Related topics and connections
+- ✅ Verification questions with expected answers
+- ✅ For SIE Exam notes (question types, key facts)
+
+**Think of it as**: The textbook chapter on this topic
+
+---
+
+### Session Notes (Summary, 50-100 lines)
+
+**Purpose**: Quick index and progress record for THIS specific session
+
+**Contains**:
+- ✅ Quick metadata (date, topic, duration)
+- ✅ Links to materials generated
+- ✅ Student's baseline (what they knew before)
+- ✅ Breakthrough moments (what clicked)
+- ✅ Challenges (what didn't click and how resolved)
+- ✅ Mastery assessment (simple table)
+- ✅ Next steps
+
+**Think of it as**: Index card pointing to detailed content
+
+---
+
+### Practice Questions File (Detailed, ~100-150 lines per 5 questions)
+
+**Purpose**: Active recall and exam preparation
+
+**Contains**:
+- ✅ Multiple choice questions (4 options each)
+- ✅ Detailed answer explanations
+- ✅ Why wrong answers are wrong
+- ✅ Key concepts tested
+- ✅ Difficulty ratings
+
+**Think of it as**: Quiz with teaching built in
+
+---
+
+### Rule of Thumb
+
+**If it's teaching content** → Topic file
+**If it's session progress/metadata** → Session notes
+**If it's active testing** → Practice questions
+
+**Avoid duplicating**:
+- ❌ Don't put full teaching scenarios in session notes (link to topic file)
+- ❌ Don't repeat detailed explanations across files
+- ❌ Don't create lengthy session transcripts (summarize key points only)
+
+---
+
 ## Streamlined Documentation Workflow (7-10 minutes total)
 
 **OPTIMIZED**: This replaces the old 20-30 minute protocol with an efficient 7-10 minute workflow.
@@ -166,21 +233,20 @@ After each study session, complete these six steps:
 
 ---
 
-### Step 2: Generate Practice Questions (3-5 minutes)
+### Step 2: Generate Practice Questions (2-3 minutes)
 
-**Generate 5-10 questions** based on today's session:
+**Generate 5-10 questions** based on today's session (**Default: 5 questions**):
 
 1. **Use template**: `.templates/question-template.md`
 2. **Save in BOTH locations**:
    - `practice/questions/by-topic/[topic-name].md`
    - Add to `practice/questions/domain-[XX]/[file].md`
 
-3. **Question Mix**:
-   - Conceptual (2-3): "Which best describes..."
-   - Scenario (2-3): Based on session scenarios
-   - Calculation (1-2 if applicable): From examples discussed
-   - Comparison (1-2): On concepts compared
-   - EXCEPT (optional 1): Comprehensive check
+3. **Question Mix** (for 5 questions):
+   - Conceptual (2): "Which best describes..."
+   - Scenario (2): Based on session scenarios
+   - Calculation (1 if applicable) OR Comparison (1): On concepts compared
+   - Optional: Add EXCEPT question or more questions if topic is complex
 
 4. **For each question**:
    - Write question + 4 options (1 min)
@@ -193,7 +259,8 @@ After each study session, complete these six steps:
 - Base on actual session discussion
 - Reuse scenarios from teaching
 - Simple explanations, not essays
-- Quality over quantity (5 good > 10 mediocre)
+- **Quality over quantity**: 5 high-quality questions > 10 mediocre ones
+- **Default to 5 questions** - only create 10 if topic is very complex or time permits
 
 ---
 
@@ -248,26 +315,32 @@ After each study session, complete these six steps:
 
 ---
 
-### Step 5: Create Session Notes (1 minute)
+### Step 5: Create Session Notes (1-2 minutes)
 
 **File**: `sessions/2025-MM-DD/session-notes.md`
 
-**Use template**: `sessions/template/session-notes.md`
+**Use NEW minimal template**: `sessions/template/session-notes-minimal.md`
 
-**Quick Version** (focus on key sections only):
-- Session metadata (date, topic, duration)
-- Topics covered (bullet list)
-- Key concepts learned
-- Student's baseline knowledge
-- Aha moments
-- Challenges & how resolved
-- Mastery level achieved
-- Next session recommendations
+**CRITICAL**: Session notes are a **SUMMARY/INDEX only** (target: **50-100 lines**)
 
-**Skip or keep brief**:
-- Full transcript (unnecessary)
-- Extensive examples (already in topic file)
-- Minor details
+**Include ONLY**:
+- Session metadata (date, topic, duration, materials generated links)
+- Student's baseline knowledge (brief - 1-2 sentences)
+- Key breakthrough moments (3-5 bullet points)
+- Challenges encountered & how resolved (2-3 bullet points)
+- Mastery assessment (simple table)
+- Next session recommendations (2-3 lines)
+
+**DO NOT include** (these belong in topic file):
+- ❌ Detailed teaching flow or transcript
+- ❌ Extensive examples and scenarios (already in topic file)
+- ❌ Full student performance analysis
+- ❌ Teaching effectiveness review
+- ❌ Lengthy reflections or personal teaching notes
+- ❌ Content coverage checklist
+- ❌ Comparison to learning objectives
+
+**Remember**: Detailed teaching content → topic file. Session notes → quick summary pointing to it.
 
 ---
 
@@ -319,13 +392,17 @@ git push origin main
 | Task | Time | Running Total |
 |------|------|---------------|
 | Generate topic file (if new) | 2-3 min | 3 min |
-| Generate 5-10 practice questions | 3-5 min | 8 min |
-| Update progress tracker | 2 min | 10 min |
-| Update topic inventory | 1 min | 11 min |
-| Create session notes | 1 min | 12 min |
+| Generate practice questions (default 5) | 2-3 min | 6 min |
+| Update progress tracker | 2 min | 8 min |
+| Update topic inventory | 1 min | 9 min |
+| Create session notes (minimal) | 1-2 min | 11 min |
 | Commit & push | 1-2 min | **7-10 min** |
 
 **If continuing existing topic** (no new topic file): **5-7 minutes total**
+
+**Note**: Optimized from previous 14-21 min actual time by:
+- Session notes: 50-100 lines (vs 800+ lines) = saves 4-5 min
+- Questions: Default 5 (vs 10) = saves 1-2 min
 
 ---
 
