@@ -2,9 +2,9 @@
 
 > **Domain Weight**: 16% of exam (~12 questions)
 >
-> **Last Updated**: 2025-12-24
+> **Last Updated**: 2025-12-26
 >
-> **Overall Domain Progress**: ▰▰▰▰▰▰▰▰▱▱ 75%
+> **Overall Domain Progress**: ▰▰▰▰▰▰▰▰▰▱ 87.5%
 
 ---
 
@@ -14,7 +14,7 @@
 |-------|--------|-------------|-----------|--------------|-------|
 | Market Structure (市场结构) | ✅ Taught | ❌ No | 10 | 2025-12-23 | Primary vs Secondary, NYSE vs NASDAQ - STRONG understanding |
 | Offerings & Underwriting (证券发行与承销) | ✅ Taught | ✅ Yes | 10 | 2025-12-24 | Firm Commitment vs Best Efforts, Syndicate structure, SEC role - 100% verification |
-| Regulatory Agencies (监管机构) | ⬜ Pending | ❌ No | 0 | -- | SEC, FINRA, MSRB, SIPC roles |
+| Regulatory Agencies (监管机构) | 🟨 Partial | ✅ Yes | 5 | 2025-12-26 | SEC, FINRA, MSRB, SIPC - strong conceptual grasp, verification scenarios pending |
 | Economic Factors (经济因素) | ⬜ Pending | ❌ No | 0 | -- | Monetary/fiscal policy, indicators |
 
 ---
@@ -34,13 +34,13 @@
 
 ## Progress Summary | 进度总结
 
-**Completed Topics**: 2 / 4 (50% taught, domain shows 75% due to strong mastery)
+**Completed Topics**: 2.5 / 4 (62.5% taught; domain shows 87.5% due to strong mastery on completed topics)
 
-**Topics with Files**: 1 / 4 (Offerings & Underwriting topic file created)
+**Topics with Files**: 2 / 4 (Offerings & Underwriting + Regulatory Agencies topic files created)
 
-**Total Practice Questions**: 20 (10 Market Structure in domain-01/sample-questions.md, 10 Offerings in by-topic/)
+**Total Practice Questions**: 25 (10 Market Structure, 10 Offerings, 5 Regulatory Agencies)
 
-**Estimated Time to Complete Domain**: 1-2 more sessions (~1-1.5 hours)
+**Estimated Time to Complete Domain**: 1 more session (~30-40 minutes for Economic Factors)
 
 ---
 
@@ -128,9 +128,15 @@ Market Structure (✅ DONE)
 - [ ] Create by-topic question file: `practice/questions/by-topic/market-structure.md`
   - Priority: LOW
 
+### Recently Completed:
+- [x] ~~Topic file: Regulatory Agencies~~ ✅ DONE 2025-12-26
+  - File: domains/01-capital-markets/topics/regulatory-agencies.md
+
+- [x] ~~Practice questions for Regulatory Agencies~~ ✅ DONE 2025-12-26
+  - File: practice/questions/by-topic/regulatory-agencies.md (5 questions)
+  - File: practice/questions/domain-01/regulatory-agencies-questions.md
+
 ### Future (for pending topics):
-- [ ] Topic file: Regulatory Agencies
-- [ ] 10 practice questions: Regulatory Agencies
 - [ ] Topic file: Economic Factors
 - [ ] 10 practice questions: Economic Factors
 
@@ -223,24 +229,24 @@ DOMAIN 1: CAPITAL MARKETS (16%)
 
 ## Statistics | 统计数据
 
-**Teaching Sessions**: 2 full sessions
+**Teaching Sessions**: 3 full sessions
 
-**Total Study Time on Domain 1**: ~100 minutes (1.67 hours)
+**Total Study Time on Domain 1**: ~135 minutes (2.25 hours)
 
-**Average Session Length**: 50 minutes
+**Average Session Length**: 45 minutes
 
-**Topics Completed per Session**: 1.0
+**Topics Completed per Session**: 0.83 (2.5 topics / 3 sessions)
 
-**Questions Generated**: 20 (10 Market Structure, 10 Offerings)
+**Questions Generated**: 25 (10 Market Structure, 10 Offerings, 5 Regulatory Agencies)
 
-**Files Created**: 1 topic file (Offerings & Underwriting)
+**Files Created**: 2 topic files (Offerings & Underwriting, Regulatory Agencies)
 
-**Estimated Completion Date**: Week 1-2 (75% complete, 1-2 sessions remaining)
+**Estimated Completion Date**: Week 1-2 (87.5% complete, 1 session remaining for Economic Factors)
 
 ---
 
-**Last Review**: 2025-12-24
-**Next Review**: After next Domain 1 session
+**Last Review**: 2025-12-26
+**Next Review**: After completing Economic Factors (final Domain 1 topic)
 
 ---
 
