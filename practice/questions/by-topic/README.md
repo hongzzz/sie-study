@@ -25,8 +25,8 @@
 ### Example:
 
 "Common vs Preferred Stock" questions appear in:
-- `/practice/questions/domain-02/equity-basics.md` (domain-based)
-- `/practice/questions/by-topic/common-vs-preferred-stock.md` (topic-based)
+- `../domain-02/equity-basics.md` (domain-based)
+- `common-vs-preferred-stock.md` (topic-based)
 
 This allows you to:
 - Practice by topic while learning

@@ -520,8 +520,8 @@ The prospectus includes a disclaimer: "These securities have not been approved o
 - [Domain 1 Questions](../domain-01/capital-markets-mixed.md) - Includes offerings questions mixed with other Domain 1 topics
 
 ### Related Topics to Practice:
-- [Market Structure](by-topic/market-structure.md) - Primary vs Secondary markets
-- [Regulatory Agencies](by-topic/regulatory-agencies.md) - SEC's broader role
+- [Market Structure](market-structure.md) - Primary vs Secondary markets
+- [Regulatory Agencies](regulatory-agencies.md) - SEC's broader role
 - [Equity Securities](../domain-02/equity-securities.md) - What's being offered in equity IPOs
 
 ### Study Materials:

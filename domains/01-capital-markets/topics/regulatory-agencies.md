@@ -437,12 +437,12 @@ The State of California issues bonds to fund highway construction. A broker-deal
 
 ### Prerequisites (Learn These First)
 - [Market Structure](market-structure.md) - Understanding Primary vs Secondary Markets helps contextualize SEC's role
-- [Offerings & Underwriting](offerings-underwriting.md) - SEC regulates the IPO process covered in this topic
+- [Offerings & Underwriting](offerings-and-underwriting.md) - SEC regulates the IPO process covered in this topic
 
 ### Related Topics (Learn Together or Next)
 - [Regulatory Framework](../../domains/04-regulatory-framework/) - Specific SEC and FINRA rules
 - [Prohibited Activities](../../domains/03-trading-accounts/topics/prohibited-activities.md) - What SEC/FINRA prohibit and enforce
-- [Municipal Bonds](../../domains/02-products-risks/topics/municipal-bonds.md) - Understanding what MSRB regulates
+- [Municipal Bonds](../../domains/02-products-and-risks/topics/municipal-bonds.md) - Understanding what MSRB regulates
 
 ### Advanced Topics (Build on This)
 - [Customer Accounts](../../domains/03-trading-accounts/topics/customer-accounts.md) - FINRA and SIPC rules for account protection
@@ -596,7 +596,7 @@ This topic was taught in:
 
 **Mastery Level After Session**: 🟨 In Progress (taught but verification questions pending)
 
-**Next Recommended Topic**: [Economic Factors](economic-factors.md) to complete Domain 1, OR [Debt Securities](../../domains/02-products-risks/topics/debt-securities.md) to start Domain 2
+**Next Recommended Topic**: [Economic Factors](economic-factors.md) to complete Domain 1, OR [Debt Securities](../../domains/02-products-and-risks/topics/debt-securities.md) to start Domain 2
 
 ---
 
