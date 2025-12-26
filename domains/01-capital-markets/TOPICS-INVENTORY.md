@@ -4,7 +4,7 @@
 >
 > **Last Updated**: 2025-12-26
 >
-> **Overall Domain Progress**: ▰▰▰▰▰▰▰▰▰▱ 87.5%
+> **Overall Domain Progress**: ▰▰▰▰▰▰▰▱▱▱ 75%
 
 ---
 
@@ -14,7 +14,7 @@
 |-------|--------|-------------|-----------|--------------|-------|
 | Market Structure (市场结构) | ✅ Taught | ❌ No | 10 | 2025-12-23 | Primary vs Secondary, NYSE vs NASDAQ - STRONG understanding |
 | Offerings & Underwriting (证券发行与承销) | ✅ Taught | ✅ Yes | 10 | 2025-12-24 | Firm Commitment vs Best Efforts, Syndicate structure, SEC role - 100% verification |
-| Regulatory Agencies (监管机构) | 🟨 Partial | ✅ Yes | 5 | 2025-12-26 | SEC, FINRA, MSRB, SIPC - strong conceptual grasp, verification scenarios pending |
+| Regulatory Agencies (监管机构) | ✅ Taught | ✅ Yes | 5 | 2025-12-26 | SEC, FINRA, MSRB, SIPC - 100% accuracy on all 4 verification scenarios |
 | Economic Factors (经济因素) | ⬜ Pending | ❌ No | 0 | -- | Monetary/fiscal policy, indicators |
 
 ---
@@ -34,7 +34,7 @@
 
 ## Progress Summary | 进度总结
 
-**Completed Topics**: 2.5 / 4 (62.5% taught; domain shows 87.5% due to strong mastery on completed topics)
+**Completed Topics**: 3 / 4 (75% taught)
 
 **Topics with Files**: 2 / 4 (Offerings & Underwriting + Regulatory Agencies topic files created)
 
@@ -46,21 +46,15 @@
 
 ## Next Session Recommendations | 下次会话建议
 
-### Priority 1: Complete Foundation Topics (Recommended)
+### Priority 1: Complete Domain 1 (Recommended) 🎯
 
-**Option A: Regulatory Agencies** ⭐ Recommended
-- **Why**: Foundational knowledge for entire exam
-- **Prerequisites**: None (can start immediately)
-- **Estimated Time**: 1 session (30-40 min)
-- **Key Learning**: SEC, FINRA, MSRB, SIPC roles and authority
-- **Connection**: Understanding "who regulates what" helps with all other domains
-
-**Option B: Economic Factors**
-- **Why**: Explains market movements and Fed's role
+**Option A: Economic Factors** ⭐ Recommended
+- **Why**: Last topic to complete Domain 1 (75% → 100%)
 - **Prerequisites**: None
 - **Estimated Time**: 1 session (30-40 min)
 - **Key Learning**: Monetary vs fiscal policy, GDP, CPI, unemployment
 - **Connection**: Foundation for understanding market trends
+- **Achievement**: Complete first domain! 🎉
 
 ### Priority 2: Deepen Partial Understanding
 
@@ -229,19 +223,19 @@ DOMAIN 1: CAPITAL MARKETS (16%)
 
 ## Statistics | 统计数据
 
-**Teaching Sessions**: 3 full sessions
+**Teaching Sessions**: 4 sessions (3 topics + 1 verification)
 
-**Total Study Time on Domain 1**: ~135 minutes (2.25 hours)
+**Total Study Time on Domain 1**: ~185 minutes (3.1 hours)
 
-**Average Session Length**: 45 minutes
+**Average Session Length**: 46 minutes
 
-**Topics Completed per Session**: 0.83 (2.5 topics / 3 sessions)
+**Topics Completed per Session**: 0.75 (3 topics / 4 sessions)
 
 **Questions Generated**: 25 (10 Market Structure, 10 Offerings, 5 Regulatory Agencies)
 
 **Files Created**: 2 topic files (Offerings & Underwriting, Regulatory Agencies)
 
-**Estimated Completion Date**: Week 1-2 (87.5% complete, 1 session remaining for Economic Factors)
+**Estimated Completion Date**: Week 1-2 (75% complete, 1 session remaining for Economic Factors)
 
 ---
 
