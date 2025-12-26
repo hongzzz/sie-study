@@ -31,7 +31,7 @@
 ## Overall Progress Overview
 
 ```
-Overall Progress: ▰▰▱▱▱▱▱▱▱▱ 12%
+Overall Progress: ▰▰▱▱▱▱▱▱▱▱ 14%
 
 Estimated Completion: ~16 weeks (assuming 30 minutes/day)
 Days Studied: 4
@@ -76,14 +76,14 @@ Days Remaining: ~106 days
 ---
 
 ### Domain 1: Knowledge of Capital Markets (16% | 12 questions)
-**Current Progress**: ▰▰▰▰▰▰▰▰▰▱ 87.5%
+**Current Progress**: ▰▰▰▰▰▰▰▱▱▱ 75%
 
 | Subtopic | Status | Mastery | Last Studied | Notes |
 |---------|--------|--------|--------------|------|
 | Market Structure (市场结构) | ✅ Completed | 🟩 Good Grasp | 2025-12-23 | Primary Market (一级市场), Secondary Market (二级市场), NYSE vs NASDAQ |
 | Economic Factors (经济因素) | ⬜ Not Started | -- | -- | Monetary policy, fiscal policy |
 | Offerings & Underwriting (证券发行与承销) | ✅ Completed | 🟩 Good Grasp | 2025-12-24 | Firm Commitment vs Best Efforts, Syndicate structure, SEC role - STRONG 100% on verification |
-| Regulatory Agencies (监管机构) | 🟨 In Progress | 🟧 Basic Understanding | 2025-12-26 | SEC, FINRA, SIPC, MSRB - strong conceptual grasp, verification pending |
+| Regulatory Agencies (监管机构) | ✅ Completed | 🟩 Good Grasp | 2025-12-26 | SEC, FINRA, SIPC, MSRB - Verification scenarios 100% correct, solid understanding of division of labor |
 
 **Domain Notes**:
 - Foundational domain; starting here is the right move ✅
@@ -150,7 +150,7 @@ Days Remaining: ~106 days
 | 2025-12-22 | Baseline assessment & Common Stock (普通股) vs Preferred Stock (优先股) | 30 min | ✅ Completed | [Session 1](../sessions/2025-12-22/session-notes.md) |
 | 2025-12-23 | Capital Markets: Primary vs Secondary, NYSE vs NASDAQ | 40 min | ✅ Completed | [Session 2](../sessions/2025-12-23/session-notes.md) |
 | 2025-12-24 | Offerings & Underwriting: IPO Process, Firm Commitment vs Best Efforts, Syndicate | 60 min | ✅ Completed | [Session 3](../sessions/2025-12-24/session-notes.md) - 100% accuracy on verification |
-| 2025-12-26 | Regulatory Agencies: SEC, FINRA, SIPC, MSRB | 35 min | 🟨 In Progress | [Session 4](../sessions/2025-12-26/session-notes.md) - Strong conceptual understanding, verification scenarios pending |
+| 2025-12-26 | Regulatory Agencies: SEC, FINRA, SIPC, MSRB (Verification Scenarios) | 50 min | ✅ Completed | [Session 4](../sessions/2025-12-26/session-notes.md) - 100% accuracy on all 4 verification scenarios |
 
 ---
 
@@ -260,7 +260,7 @@ Days Remaining: ~106 days
 - **2025-12-22**: "Preferred" in finance refers to priority in dividends and liquidation (not voting priority). This was counterintuitive at first.
 - **2025-12-23**: In the Primary Market (一级市场) a company raises money when it issues securities; in the Secondary Market (二级市场), trading happens between investors and the company does not receive proceeds—explains why IPOs matter so much.
 - **2025-12-24**: In Firm Commitment, ownership of securities transfers to the underwriter BEFORE public sale - the company gets guaranteed money upfront regardless of market performance. This is THE key difference from Best Efforts where the company only gets what actually sells.
-- **2025-12-26**: SEC = Disclosure Police, NOT Investment Advisor - this is a critical distinction. SEC never recommends investments, only ensures adequate disclosure. FINRA is industry self-regulation (SRO), not government. MSRB makes rules but doesn't enforce them - unique division of labor.
+- **2025-12-26**: SEC = Disclosure Police, NOT Investment Advisor - this is a critical distinction. SEC never recommends investments, only ensures adequate disclosure. FINRA is industry self-regulation (SRO), not government. MSRB makes rules but doesn't enforce them - unique division of labor. Through verification scenarios: SIPC protects broker bankruptcy (按破产时账户余额), NOT investment losses; municipal bond enforcement has clear division - MSRB makes rules, FINRA enforces for brokers, SEC enforces for issuers.
 
 ### Easily Confused Concepts
 
@@ -301,7 +301,7 @@ Days Remaining: ~106 days
 **Study Streak**: 4 days 🔥
 
 **Weekly Study Hours**:
-- Week 1: 2.8 hours (Day 1: 30 min, Day 2: 40 min, Day 3: 60 min, Day 4: 35 min)
+- Week 1: 3.1 hours (Day 1: 30 min, Day 2: 40 min, Day 3: 60 min, Day 4: 50 min)
 - Week 2: --
 - Week 3: --
 
@@ -329,14 +329,15 @@ Days Remaining: ~106 days
    - [x] Start Capital Markets fundamentals ✅
    - [x] Complete Offerings & Underwriting ✅
    - [x] Learn Regulatory Agencies ✅
-   - [ ] **Next session**: Complete verification scenarios for Regulatory Agencies OR finish Domain 1 with Economic Factors OR start Domain 2 (Debt Securities - highest weight)
+   - [x] Complete verification scenarios for Regulatory Agencies ✅
+   - [ ] **Next session**: Finish Domain 1 with Economic Factors OR start Domain 2 (Debt Securities - highest weight)
 
 2. **This Week**
    - [x] Start Capital Markets fundamentals ✅
    - [x] Make significant progress in Domain 1 ✅ (75% complete)
-   - [ ] **Recommended**: Finish Domain 1 (1 more session on Regulatory Agencies or Economic Factors)
-   - [ ] Complete 5–10 practice questions on Offerings & Underwriting
-   - [x] Maintain study streak ✅ (3 days)
+   - [ ] **Recommended**: Finish Domain 1 with Economic Factors (1 more session, 30-40 min) OR start Domain 2
+   - [ ] Complete 5–10 practice questions
+   - [x] Maintain study streak ✅ (4 days)
 
 3. **This Month**
    - [ ] Finish Domain 1 - Capital Markets (75% → 100%)
