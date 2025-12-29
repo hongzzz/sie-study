@@ -31,11 +31,11 @@
 ## Overall Progress Overview
 
 ```
-Overall Progress: ▰▰▱▱▱▱▱▱▱▱ 14%
+Overall Progress: ▰▰▱▱▱▱▱▱▱▱ 16%
 
 Estimated Completion: ~16 weeks (assuming 30 minutes/day)
-Days Studied: 4
-Days Remaining: ~106 days
+Days Studied: 5
+Days Remaining: ~105 days
 ```
 
 ---
@@ -76,12 +76,12 @@ Days Remaining: ~106 days
 ---
 
 ### Domain 1: Knowledge of Capital Markets (16% | 12 questions)
-**Current Progress**: ▰▰▰▰▰▰▰▱▱▱ 75%
+**Current Progress**: ▰▰▰▰▰▰▰▰▰▱ 88%
 
 | Subtopic | Status | Mastery | Last Studied | Notes |
 |---------|--------|--------|--------------|------|
 | Market Structure (市场结构) | ✅ Completed | 🟩 Good Grasp | 2025-12-23 | Primary Market (一级市场), Secondary Market (二级市场), NYSE vs NASDAQ |
-| Economic Factors (经济因素) | ⬜ Not Started | -- | -- | Monetary policy, fiscal policy |
+| Economic Factors (经济因素) | 🟨 In Progress | 🟩 Good Grasp | 2025-12-30 | Monetary Policy ✅, Fiscal Policy ✅, Economic Indicators ⏳ |
 | Offerings & Underwriting (证券发行与承销) | ✅ Completed | 🟩 Good Grasp | 2025-12-24 | Firm Commitment vs Best Efforts, Syndicate structure, SEC role - STRONG 100% on verification |
 | Regulatory Agencies (监管机构) | ✅ Completed | 🟩 Good Grasp | 2025-12-26 | SEC, FINRA, SIPC, MSRB - Verification scenarios 100% correct, solid understanding of division of labor |
 
@@ -151,6 +151,7 @@ Days Remaining: ~106 days
 | 2025-12-23 | Capital Markets: Primary vs Secondary, NYSE vs NASDAQ | 40 min | ✅ Completed | [Session 2](../sessions/2025-12-23/session-notes.md) |
 | 2025-12-24 | Offerings & Underwriting: IPO Process, Firm Commitment vs Best Efforts, Syndicate | 60 min | ✅ Completed | [Session 3](../sessions/2025-12-24/session-notes.md) - 100% accuracy on verification |
 | 2025-12-26 | Regulatory Agencies: SEC, FINRA, SIPC, MSRB (Verification Scenarios) | 50 min | ✅ Completed | [Session 4](../sessions/2025-12-26/session-notes.md) - 100% accuracy on all 4 verification scenarios |
+| 2025-12-30 | Economic Factors (Part 1): Monetary Policy, Fiscal Policy | 35 min | 🟨 In Progress | [Session 5](../sessions/2025-12-30/session-notes.md) - Economic Indicators to be completed next session |
 
 ---
 
@@ -261,6 +262,7 @@ Days Remaining: ~106 days
 - **2025-12-23**: In the Primary Market (一级市场) a company raises money when it issues securities; in the Secondary Market (二级市场), trading happens between investors and the company does not receive proceeds—explains why IPOs matter so much.
 - **2025-12-24**: In Firm Commitment, ownership of securities transfers to the underwriter BEFORE public sale - the company gets guaranteed money upfront regardless of market performance. This is THE key difference from Best Efforts where the company only gets what actually sells.
 - **2025-12-26**: SEC = Disclosure Police, NOT Investment Advisor - this is a critical distinction. SEC never recommends investments, only ensures adequate disclosure. FINRA is industry self-regulation (SRO), not government. MSRB makes rules but doesn't enforce them - unique division of labor. Through verification scenarios: SIPC protects broker bankruptcy (按破产时账户余额), NOT investment losses; municipal bond enforcement has clear division - MSRB makes rules, FINRA enforces for brokers, SEC enforces for issuers.
+- **2025-12-30**: Fed's independence = Judicial independence - excellent student analogy. Monetary Policy (Fed controls money supply via OMO/rates) vs Fiscal Policy (Government controls money flow via spending/taxes). Key insight: "market sentiment changes faster" with monetary policy. Buy bonds = inject money = lower rates; Sell bonds = withdraw money = higher rates.
 
 ### Easily Confused Concepts
 
@@ -293,15 +295,18 @@ Days Remaining: ~106 days
 - **S-F-S-M (Safe System)**: SEC = Supreme, FINRA = Firm behavior, SIPC = Safety net, MSRB = Municipal
 - **SIPC: 5-2-5 rule** = $500K total, $250K cash, 5 in both
 - **MSRB Makes, Doesn't Enforce** - rulemaker only, SEC/FINRA enforce
+- **OMO: Buy = 放水, Sell = 抽水** (Open Market Operations)
+- **Economic policies: 经济冷→政府热(多花少收), 经济热→政府冷(少花多收)**
+- **Monetary = Fast (Fed meeting), Fiscal = Slow (legislation)**
 
 ---
 
 ## Motivation Tracker
 
-**Study Streak**: 4 days 🔥
+**Study Streak**: 5 days 🔥
 
 **Weekly Study Hours**:
-- Week 1: 3.1 hours (Day 1: 30 min, Day 2: 40 min, Day 3: 60 min, Day 4: 50 min)
+- Week 1: 3.7 hours (Day 1: 30 min, Day 2: 40 min, Day 3: 60 min, Day 4: 50 min, Day 5: 35 min)
 - Week 2: --
 - Week 3: --
 
