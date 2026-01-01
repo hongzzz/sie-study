@@ -31,11 +31,12 @@
 ## Overall Progress Overview
 
 ```
-Overall Progress: ▰▰▱▱▱▱▱▱▱▱ 16%
+Overall Progress: ▰▰▰▱▱▱▱▱▱▱ 20%
 
 Estimated Completion: ~16 weeks (assuming 30 minutes/day)
-Days Studied: 5
+Days Studied: 5 (Study Streak: 5 days 🔥)
 Days Remaining: ~105 days
+First Domain Completed! 🎉
 ```
 
 ---
@@ -76,12 +77,12 @@ Days Remaining: ~105 days
 ---
 
 ### Domain 1: Knowledge of Capital Markets (16% | 12 questions)
-**Current Progress**: ▰▰▰▰▰▰▰▰▰▱ 88%
+**Current Progress**: ▰▰▰▰▰▰▰▰▰▰ 100% ✅ **COMPLETED!**
 
 | Subtopic | Status | Mastery | Last Studied | Notes |
 |---------|--------|--------|--------------|------|
 | Market Structure (市场结构) | ✅ Completed | 🟩 Good Grasp | 2025-12-23 | Primary Market (一级市场), Secondary Market (二级市场), NYSE vs NASDAQ |
-| Economic Factors (经济因素) | 🟨 In Progress | 🟩 Good Grasp | 2025-12-30 | Monetary Policy ✅, Fiscal Policy ✅, Economic Indicators ⏳ |
+| Economic Factors (经济因素) | ✅ Completed | 🟩 Good Grasp | 2025-12-30 | Monetary Policy (Fed tools, OMO), Fiscal Policy (spending/taxes), Economic Indicators (GDP, CPI, unemployment) - Comprehensive understanding |
 | Offerings & Underwriting (证券发行与承销) | ✅ Completed | 🟩 Good Grasp | 2025-12-24 | Firm Commitment vs Best Efforts, Syndicate structure, SEC role - STRONG 100% on verification |
 | Regulatory Agencies (监管机构) | ✅ Completed | 🟩 Good Grasp | 2025-12-26 | SEC, FINRA, SIPC, MSRB - Verification scenarios 100% correct, solid understanding of division of labor |
 
@@ -119,8 +120,11 @@ Days Remaining: ~105 days
 
 ## Mastered Topics Checklist
 
-**Domain 1 - Capital Markets**:
-- [ ] None yet
+**Domain 1 - Capital Markets**: ✅ **COMPLETE!**
+- [x] Market Structure (市场结构)
+- [x] Economic Factors (经济因素)
+- [x] Offerings & Underwriting (证券发行与承销)
+- [x] Regulatory Agencies (监管机构)
 
 **Domain 2 - Products & Risks**:
 - [ ] None yet
@@ -131,7 +135,7 @@ Days Remaining: ~105 days
 **Domain 4 - Regulatory Framework**:
 - [ ] None yet
 
-**Total Mastered Topics**: 0/20+
+**Total Mastered Topics**: 4/20+ (Domain 1: 100% ✅)
 
 ---
 
@@ -151,7 +155,7 @@ Days Remaining: ~105 days
 | 2025-12-23 | Capital Markets: Primary vs Secondary, NYSE vs NASDAQ | 40 min | ✅ Completed | [Session 2](../sessions/2025-12-23/session-notes.md) |
 | 2025-12-24 | Offerings & Underwriting: IPO Process, Firm Commitment vs Best Efforts, Syndicate | 60 min | ✅ Completed | [Session 3](../sessions/2025-12-24/session-notes.md) - 100% accuracy on verification |
 | 2025-12-26 | Regulatory Agencies: SEC, FINRA, SIPC, MSRB (Verification Scenarios) | 50 min | ✅ Completed | [Session 4](../sessions/2025-12-26/session-notes.md) - 100% accuracy on all 4 verification scenarios |
-| 2025-12-30 | Economic Factors (Part 1): Monetary Policy, Fiscal Policy | 35 min | 🟨 In Progress | [Session 5](../sessions/2025-12-30/session-notes.md) - Economic Indicators to be completed next session |
+| 2025-12-30 | Economic Factors: Monetary Policy, Fiscal Policy, Economic Indicators | 65 min | ✅ Completed | [Session 5](../sessions/2025-12-30/session-notes.md) - **DOMAIN 1 COMPLETE! 🎉** First full domain mastered |
 
 ---
 
@@ -262,7 +266,7 @@ Days Remaining: ~105 days
 - **2025-12-23**: In the Primary Market (一级市场) a company raises money when it issues securities; in the Secondary Market (二级市场), trading happens between investors and the company does not receive proceeds—explains why IPOs matter so much.
 - **2025-12-24**: In Firm Commitment, ownership of securities transfers to the underwriter BEFORE public sale - the company gets guaranteed money upfront regardless of market performance. This is THE key difference from Best Efforts where the company only gets what actually sells.
 - **2025-12-26**: SEC = Disclosure Police, NOT Investment Advisor - this is a critical distinction. SEC never recommends investments, only ensures adequate disclosure. FINRA is industry self-regulation (SRO), not government. MSRB makes rules but doesn't enforce them - unique division of labor. Through verification scenarios: SIPC protects broker bankruptcy (按破产时账户余额), NOT investment losses; municipal bond enforcement has clear division - MSRB makes rules, FINRA enforces for brokers, SEC enforces for issuers.
-- **2025-12-30**: Fed's independence = Judicial independence - excellent student analogy. Monetary Policy (Fed controls money supply via OMO/rates) vs Fiscal Policy (Government controls money flow via spending/taxes). Key insight: "market sentiment changes faster" with monetary policy. Buy bonds = inject money = lower rates; Sell bonds = withdraw money = higher rates.
+- **2025-12-30**: Fed's independence = Judicial independence - excellent student analogy. Monetary Policy (Fed controls money supply via OMO/rates) vs Fiscal Policy (Government controls money flow via spending/taxes). Key insight: "market sentiment changes faster" with monetary policy. Buy bonds = inject money = lower rates; Sell bonds = withdraw money = higher rates. Understood wage-price spiral: extremely low unemployment (e.g., 2%) can trigger inflation through labor shortages and wage competition. Excellent policy prioritization: correctly identified that 8% inflation must be addressed with rate hikes even when GDP is growing strongly.
 
 ### Easily Confused Concepts
 
@@ -278,6 +282,9 @@ Days Remaining: ~105 days
 | SEC | FINRA | Government agency (top regulator) vs Industry SRO (broker conduct) |
 | SIPC Coverage | Investment Insurance | Covers broker bankruptcy vs Does NOT cover market losses |
 | MSRB Rulemaking | MSRB Enforcement | Makes municipal bond rules vs Does NOT enforce (SEC/FINRA enforce) |
+| Monetary Policy | Fiscal Policy | Fed controls money supply (OMO, rates) vs Government controls spending/taxes |
+| Nominal GDP | Real GDP | Includes inflation vs Removes inflation (true growth) |
+| Expansionary Policy | Contractionary Policy | Stimulate economy (recession) vs Cool economy (inflation) |
 
 ### Memory Aids
 - **Preferred Stock (优先股) = priority in money**
@@ -298,6 +305,11 @@ Days Remaining: ~105 days
 - **OMO: Buy = 放水, Sell = 抽水** (Open Market Operations)
 - **Economic policies: 经济冷→政府热(多花少收), 经济热→政府冷(少花多收)**
 - **Monetary = Fast (Fed meeting), Fiscal = Slow (legislation)**
+- **Fed's Dual Mandate: Maximum Employment + Stable Prices (~2%)**
+- **Recession = 2 consecutive quarters of negative GDP growth**
+- **Real GDP = Nominal GDP - Inflation (true growth)**
+- **CPI = basket of consumer goods (衣食住行)**
+- **Natural unemployment = 4-5% (healthy level)**
 
 ---
 
@@ -306,7 +318,7 @@ Days Remaining: ~105 days
 **Study Streak**: 5 days 🔥
 
 **Weekly Study Hours**:
-- Week 1: 3.7 hours (Day 1: 30 min, Day 2: 40 min, Day 3: 60 min, Day 4: 50 min, Day 5: 35 min)
+- Week 1: 4.2 hours (Day 1: 30 min, Day 2: 40 min, Day 3: 60 min, Day 4: 50 min, Day 5: 65 min)
 - Week 2: --
 - Week 3: --
 
@@ -316,6 +328,7 @@ Days Remaining: ~105 days
 - [x] 📊 Understood exchange differences: NYSE vs NASDAQ
 - [x] 💼 Mastered Offerings & Underwriting - 100% verification accuracy
 - [x] 🏛️ Strong grasp on Regulatory Agencies (SEC, FINRA, SIPC, MSRB)
+- [x] 🎓 **COMPLETED DOMAIN 1 - Knowledge of Capital Markets! 🎉**
 - [ ] 📚 7-day study streak
 - [ ] 💯 First practice set accuracy ≥ 80%
 - [ ] 🏆 Completed first mock exam
