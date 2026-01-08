@@ -1,6 +1,6 @@
 # SIE Study Progress Tracker
 
-> Last Updated: 2025-12-24
+> Last Updated: 2025-01-09
 >
 > Study Start Date: 2025-12-22
 >
@@ -31,12 +31,12 @@
 ## Overall Progress Overview
 
 ```
-Overall Progress: ▰▰▰▱▱▱▱▱▱▱ 20%
+Overall Progress: ▰▰▰▱▱▱▱▱▱▱ 23%
 
-Estimated Completion: ~16 weeks (assuming 30 minutes/day)
-Days Studied: 5 (Study Streak: 5 days 🔥)
-Days Remaining: ~105 days
-First Domain Completed! 🎉
+Estimated Completion: ~15 weeks (assuming 30 minutes/day)
+Days Studied: 6 (Study Streak: 6 days 🔥)
+Days Remaining: ~100 days
+First Domain Completed! Domain 2 Started! 🎉
 ```
 
 ---
@@ -44,11 +44,12 @@ First Domain Completed! 🎉
 ## Four Domain Progress
 
 ### Domain 2: Understanding Products and Their Risks (44% | 33 questions)
-**Current Progress**: ▰▱▱▱▱▱▱▱▱▱ 5%
+**Current Progress**: ▰▰▱▱▱▱▱▱▱▱ 15%
 
 | Subtopic | Status | Mastery | Last Studied | Notes |
 |---------|--------|--------|--------------|------|
-| Equity Securities (股票证券) | 🟨 In Progress | 🟧 Basic Understanding | 2025-12-22 | Solid on Common Stock (普通股) vs Preferred Stock (优先股) at a baseline level |
+| Equity Securities - Preferred Stock (优先股) | ✅ Completed | 🟩 Good Grasp | 2025-01-09 | Deep dive into all features: Cumulative/Callable/Convertible, 5/5 practice questions, strong investor matching understanding |
+| Equity Securities - Common Stock (普通股) | 🟨 Basic | 🟧 Basic Understanding | 2025-12-22 | Basic understanding, needs deeper dive |
 | Debt Securities (债务证券) | ⬜ Not Started | -- | -- | Treasuries, corporate bonds |
 | Municipal Bonds (市政债券) | ⬜ Not Started | -- | -- | GO bonds, revenue bonds |
 | Options (期权) | ⬜ Not Started | -- | -- | Calls, puts, basic strategies |
@@ -127,7 +128,7 @@ First Domain Completed! 🎉
 - [x] Regulatory Agencies (监管机构)
 
 **Domain 2 - Products & Risks**:
-- [ ] None yet
+- [x] Preferred Stock (优先股)
 
 **Domain 3 - Trading & Accounts**:
 - [ ] None yet
@@ -135,7 +136,7 @@ First Domain Completed! 🎉
 **Domain 4 - Regulatory Framework**:
 - [ ] None yet
 
-**Total Mastered Topics**: 4/20+ (Domain 1: 100% ✅)
+**Total Mastered Topics**: 5/20+ (Domain 1: 100% ✅ | Domain 2: Started)
 
 ---
 
@@ -156,6 +157,7 @@ First Domain Completed! 🎉
 | 2025-12-24 | Offerings & Underwriting: IPO Process, Firm Commitment vs Best Efforts, Syndicate | 60 min | ✅ Completed | [Session 3](../sessions/2025-12-24/session-notes.md) - 100% accuracy on verification |
 | 2025-12-26 | Regulatory Agencies: SEC, FINRA, SIPC, MSRB (Verification Scenarios) | 50 min | ✅ Completed | [Session 4](../sessions/2025-12-26/session-notes.md) - 100% accuracy on all 4 verification scenarios |
 | 2025-12-30 | Economic Factors: Monetary Policy, Fiscal Policy, Economic Indicators | 65 min | ✅ Completed | [Session 5](../sessions/2025-12-30/session-notes.md) - **DOMAIN 1 COMPLETE! 🎉** First full domain mastered |
+| 2025-01-09 | Domain 2 Start: Preferred Stock Deep Dive (Features, Investor Matching) | 60 min | ✅ Completed | [Session 6](../sessions/2025-01-09/session-notes.md) - 5/5 practice questions (100%), excellent understanding of all features |
 
 ---
 
@@ -267,6 +269,7 @@ First Domain Completed! 🎉
 - **2025-12-24**: In Firm Commitment, ownership of securities transfers to the underwriter BEFORE public sale - the company gets guaranteed money upfront regardless of market performance. This is THE key difference from Best Efforts where the company only gets what actually sells.
 - **2025-12-26**: SEC = Disclosure Police, NOT Investment Advisor - this is a critical distinction. SEC never recommends investments, only ensures adequate disclosure. FINRA is industry self-regulation (SRO), not government. MSRB makes rules but doesn't enforce them - unique division of labor. Through verification scenarios: SIPC protects broker bankruptcy (按破产时账户余额), NOT investment losses; municipal bond enforcement has clear division - MSRB makes rules, FINRA enforces for brokers, SEC enforces for issuers.
 - **2025-12-30**: Fed's independence = Judicial independence - excellent student analogy. Monetary Policy (Fed controls money supply via OMO/rates) vs Fiscal Policy (Government controls money flow via spending/taxes). Key insight: "market sentiment changes faster" with monetary policy. Buy bonds = inject money = lower rates; Sell bonds = withdraw money = higher rates. Understood wage-price spiral: extremely low unemployment (e.g., 2%) can trigger inflation through labor shortages and wage competition. Excellent policy prioritization: correctly identified that 8% inflation must be addressed with rate hikes even when GDP is growing strongly.
+- **2025-01-09**: Started Domain 2! Deep understanding of Preferred Stock features. Key insight: "Preferred" means priority for MONEY (dividends/liquidation), NOT voting power - this was counterintuitive at first. Grasped risk-return balance principle: features favoring company → higher dividend compensation; features favoring investor → lower dividend acceptable. Strong understanding of investor matching: retirees need non-callable for stable income; young investors benefit from convertible for growth. "Best of Both Worlds" concept for convertible preferred clicked immediately. Conversion Price calculation mastered: Par Value ÷ Conversion Ratio. Practice questions: 5/5 (100%) - excellent application of all concepts.
 
 ### Easily Confused Concepts
 
@@ -285,6 +288,10 @@ First Domain Completed! 🎉
 | Monetary Policy | Fiscal Policy | Fed controls money supply (OMO, rates) vs Government controls spending/taxes |
 | Nominal GDP | Real GDP | Includes inflation vs Removes inflation (true growth) |
 | Expansionary Policy | Contractionary Policy | Stimulate economy (recession) vs Cool economy (inflation) |
+| Cumulative Preferred | Non-Cumulative Preferred | Dividends accumulate if missed vs Dividends expire if missed |
+| Callable Preferred | Non-Callable Preferred | Company can redeem vs Company cannot redeem |
+| Convertible Preferred | Non-Convertible Preferred | Can exchange for common stock vs Cannot convert |
+| Realized Income | Unrealized Income | Cash received (dividend) vs Paper gain (unsold stock appreciation) |
 
 ### Memory Aids
 - **Preferred Stock (优先股) = priority in money**
@@ -310,16 +317,22 @@ First Domain Completed! 🎉
 - **Real GDP = Nominal GDP - Inflation (true growth)**
 - **CPI = basket of consumer goods (衣食住行)**
 - **Natural unemployment = 4-5% (healthy level)**
+- **Cumulative = Company must Catch up** (all missed dividends must be paid)
+- **Callable = Company Can take it back** (when rates drop)
+- **Convertible = Choice to Change** (to common stock)
+- **Conversion Price = Par ÷ Ratio** (breakeven point for conversion)
+- **Risk-Return Balance: Company benefits → Higher dividend; Investor benefits → Lower dividend**
+- **Dividend = Realized immediately, Capital Gain = Unrealized until sold**
 
 ---
 
 ## Motivation Tracker
 
-**Study Streak**: 5 days 🔥
+**Study Streak**: 6 days 🔥
 
 **Weekly Study Hours**:
 - Week 1: 4.2 hours (Day 1: 30 min, Day 2: 40 min, Day 3: 60 min, Day 4: 50 min, Day 5: 65 min)
-- Week 2: --
+- Week 2: 1.0 hours (Day 6: 60 min)
 - Week 3: --
 
 **Achievement Badges**:
@@ -329,8 +342,10 @@ First Domain Completed! 🎉
 - [x] 💼 Mastered Offerings & Underwriting - 100% verification accuracy
 - [x] 🏛️ Strong grasp on Regulatory Agencies (SEC, FINRA, SIPC, MSRB)
 - [x] 🎓 **COMPLETED DOMAIN 1 - Knowledge of Capital Markets! 🎉**
-- [ ] 📚 7-day study streak
-- [ ] 💯 First practice set accuracy ≥ 80%
+- [x] 🚀 **Started Domain 2 - Products & Risks!**
+- [x] 💎 Mastered Preferred Stock features (100% on practice questions)
+- [ ] 📚 7-day study streak (Current: 6 days)
+- [x] 💯 First practice set accuracy ≥ 80% (achieved 100%!)
 - [ ] 🏆 Completed first mock exam
 - [ ] 🌟 Mock exam ≥ 70%
 - [ ] 🎓 Ready—schedule the exam
@@ -348,20 +363,24 @@ First Domain Completed! 🎉
    - [x] Complete Offerings & Underwriting ✅
    - [x] Learn Regulatory Agencies ✅
    - [x] Complete verification scenarios for Regulatory Agencies ✅
-   - [ ] **Next session**: Finish Domain 1 with Economic Factors OR start Domain 2 (Debt Securities - highest weight)
+   - [x] Complete Domain 1 ✅
+   - [x] Start Domain 2 - Preferred Stock ✅
+   - [ ] **Next session**: Continue Domain 2 - Common Stock (advanced features) OR Debt Securities
 
 2. **This Week**
    - [x] Start Capital Markets fundamentals ✅
-   - [x] Make significant progress in Domain 1 ✅ (75% complete)
-   - [ ] **Recommended**: Finish Domain 1 with Economic Factors (1 more session, 30-40 min) OR start Domain 2
-   - [ ] Complete 5–10 practice questions
-   - [x] Maintain study streak ✅ (4 days)
+   - [x] Make significant progress in Domain 1 ✅ (100% complete)
+   - [x] Finish Domain 1 with Economic Factors ✅
+   - [x] Start Domain 2 ✅
+   - [x] Complete 5–10 practice questions ✅ (5 questions, 100% accuracy)
+   - [x] Maintain study streak ✅ (6 days)
 
 3. **This Month**
-   - [ ] Finish Domain 1 - Capital Markets (75% → 100%)
-   - [ ] Start and make progress on Domain 2 (Debt Securities → Municipal Bonds → Equity deeper)
-   - [ ] Complete at least 30 practice questions total
-   - [x] Build a daily study habit ✅ (strong 3-day streak)
+   - [x] Finish Domain 1 - Capital Markets ✅ (100%)
+   - [x] Start and make progress on Domain 2 ✅ (15% - Preferred Stock complete)
+   - [ ] Continue Domain 2: Common Stock, Debt Securities, Municipal Bonds
+   - [ ] Complete at least 30 practice questions total (Current: 5)
+   - [x] Build a daily study habit ✅ (strong 6-day streak)
 
 ---
 

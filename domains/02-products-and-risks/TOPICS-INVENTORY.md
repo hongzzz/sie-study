@@ -2,9 +2,9 @@
 
 > **Domain Weight**: 44% of exam (~33 questions) - **HIGHEST WEIGHT**
 >
-> **Last Updated**: 2025-12-24
+> **Last Updated**: 2025-01-09
 >
-> **Overall Domain Progress**: ▰▱▱▱▱▱▱▱▱▱ 5%
+> **Overall Domain Progress**: ▰▰▱▱▱▱▱▱▱▱ 15%
 
 ---
 
@@ -13,7 +13,8 @@
 | Topic | Status | File Exists | Questions | Session Date | Notes |
 |-------|--------|-------------|-----------|--------------|-------|
 | **Equity Securities** | | | | | |
-| └─ Common vs Preferred Stock | ✅ Taught | ❌ No | 0 | 2025-12-22 | STRONG baseline understanding |
+| └─ Preferred Stock (Deep Dive) | ✅ Taught | ✅ Yes | 5 | 2025-01-09 | Cumulative/Callable/Convertible features, 100% practice accuracy |
+| └─ Common Stock (Basics) | 🟨 Partial | ❌ No | 0 | 2025-12-22 | Baseline understanding, needs deeper coverage |
 | └─ Rights & Warrants | ⬜ Pending | ❌ No | 0 | -- | |
 | └─ ADRs | ⬜ Pending | ❌ No | 0 | -- | |
 | └─ Stock Calculations | 🟨 Partial | ❌ No | 0 | 2025-12-23 | EPS mentioned, need dividend yield, P/E ratio |
@@ -44,11 +45,11 @@
 
 ## Progress Summary | 进度总结
 
-**Completed Topics**: 1 / 15+ (6%)
+**Completed Topics**: 1 / 15+ (Preferred Stock fully mastered)
 
-**Topics with Files**: 0 / 15+
+**Topics with Files**: 1 / 15+ (preferred-stock.md)
 
-**Total Practice Questions**: 0
+**Total Practice Questions**: 5 (100% accuracy achieved)
 
 **Estimated Time to Complete Domain**: 6-8 weeks (this is the longest domain)
 
@@ -56,17 +57,18 @@
 
 ## Next Session Recommendations | 下次会话建议
 
-### Priority 1: Deepen Equity Foundation (Recommended)
+### Priority 1: Continue Equity Securities (Recommended)
 
-**Option A: Complete Equity Securities** ⭐⭐⭐ HIGHLY RECOMMENDED
-- **Why**: Build on strong Common vs Preferred Stock foundation
+**Option A: Common Stock - Advanced Features** ⭐⭐⭐ HIGHLY RECOMMENDED
+- **Why**: Complete equity securities coverage, build on Preferred Stock understanding
 - **What to Cover**:
-  1. Rights & Warrants (short-term vs long-term)
-  2. ADRs (American Depositary Receipts)
-  3. Stock calculations (dividend yield, P/E ratio - expand EPS knowledge)
-  4. Stock splits, dividends (cash vs stock)
-- **Prerequisites**: Common vs Preferred Stock (✅ completed)
-- **Estimated Time**: 1-2 sessions (60-80 min total)
+  1. Common Stock rights and features (deeper than baseline)
+  2. Rights & Warrants (short-term vs long-term)
+  3. ADRs (American Depositary Receipts)
+  4. Stock calculations (dividend yield, P/E ratio)
+  5. Stock splits, dividends (cash vs stock)
+- **Prerequisites**: Preferred Stock (✅ completed 2025-01-09)
+- **Estimated Time**: 1-2 sessions (60-90 min total)
 - **Key Learning**: Complete equity securities knowledge
 - **Exam Impact**: HIGH - equities are heavily tested
 
@@ -97,13 +99,13 @@
 ## Recommended Learning Sequence | 建议学习顺序
 
 ```
-Common vs Preferred Stock (✅ DONE)
+Preferred Stock Deep Dive (✅ DONE - 2025-01-09)
     ↓
 [CURRENT POSITION]
     ↓
 RECOMMENDED PATH:
     ↓
-Complete Equity Securities (Rights, Warrants, ADRs, Calculations)
+Complete Equity Securities (Common Stock, Rights, Warrants, ADRs, Calculations)
     ↓
 Debt Securities Introduction (Treasuries, Corporate Bonds)
     ↓
@@ -130,21 +132,20 @@ Risk Analysis (comprehensive review of all product risks)
 
 ## Content Generation Backlog | 内容生成待办
 
-### IMMEDIATE (from already-taught topics):
-- [ ] **Generate topic file**: Common vs Preferred Stock (Session 2025-12-22)
-  - Priority: **URGENT** - capture while fresh
-  - Source: Session notes 2025-12-22
-  - Key concepts: Voting rights, dividend priority, liquidation preference
+### COMPLETED:
+- [x] **Generated topic file**: Preferred Stock (Session 2025-01-09) ✅
+  - File: domains/02-products-and-risks/topics/preferred-stock.md
+  - Comprehensive coverage: Cumulative/Callable/Convertible features
 
-- [ ] **Generate 10 practice questions**: Common vs Preferred Stock
-  - Priority: **HIGH**
-  - Mix: Conceptual (4), Scenario (4), Comparison (2)
-  - Save to: by-topic/ AND domain-02/
+- [x] **Generated 5 practice questions**: Preferred Stock ✅
+  - Mix: Conceptual (1), Calculation (2), Investor Matching (1), Comprehensive (1)
+  - Saved to: by-topic/preferred-stock.md AND domain-02/preferred-stock.md
+  - Student performance: 5/5 (100%)
 
 ### UPCOMING (for next sessions):
-- [ ] Topic file: Complete Equity Securities (if Option A chosen)
+- [ ] Topic file: Common Stock - Advanced Features (if Option A chosen)
 - [ ] Topic file: Debt Securities Introduction (if Option B chosen)
-- [ ] 10-15 questions per new topic
+- [ ] 5-10 questions per new topic
 
 ---
 
@@ -169,9 +170,9 @@ Risk Analysis (comprehensive review of all product risks)
 💡 **Investment Companies**: Compare to "buying a basket" vs individual items
 💡 **Risks**: Create comprehensive risk comparison table across all products
 
-### Student's Key Insights (from Session 1):
-- "Preferred股 = 拿钱优先，不是投票优先" - great understanding!
-- Student initially thought preferred was "better" - good correction achieved
+### Student's Key Insights:
+- **Session 1 (2025-12-22)**: "Preferred股 = 拿钱优先，不是投票优先" - great understanding!
+- **Session 6 (2025-01-09)**: Grasped risk-return balance principle immediately - "features favoring company → higher dividend"; Strong investor matching skills - correctly identified callable suitable for rate-decline expectations, not retirees; "Best of Both Worlds" concept for convertible preferred clicked perfectly; Conversion Price calculation mastered on first try
 
 ---
 
@@ -180,7 +181,13 @@ Risk Analysis (comprehensive review of all product risks)
 To consider Domain 2 fully mastered, student should be able to:
 
 **Equity Securities**:
-- [ ] Distinguish Common vs Preferred Stock features ✅ (ACHIEVED)
+- [x] Distinguish Common vs Preferred Stock features ✅ (MASTERED 2025-01-09)
+- [x] Understand Cumulative vs Non-Cumulative preferred ✅
+- [x] Understand Callable vs Non-Callable preferred ✅
+- [x] Understand Convertible vs Non-Convertible preferred ✅
+- [x] Calculate conversion price and determine when to convert ✅
+- [x] Match preferred stock features to investor needs ✅
+- [ ] Explain Common Stock advanced features (voting, preemptive rights)
 - [ ] Explain Rights vs Warrants differences
 - [ ] Understand ADRs and currency risk
 - [ ] Calculate dividend yield, EPS, P/E ratio
@@ -217,7 +224,7 @@ To consider Domain 2 fully mastered, student should be able to:
 - [ ] Can apply knowledge to suitability scenarios
 - [ ] Comfortable with all calculation types
 
-**Current Achievement**: 1 / 20+ criteria (5%)
+**Current Achievement**: 6 / 30+ criteria (20% - Preferred Stock fully mastered)
 
 ---
 
@@ -227,7 +234,8 @@ To consider Domain 2 fully mastered, student should be able to:
 DOMAIN 2: PRODUCTS & RISKS (44%) - LARGEST DOMAIN
 │
 ├─ EQUITY SECURITIES (股票证券)
-│  ├─ Common vs Preferred Stock ✅
+│  ├─ Preferred Stock (Deep Dive) ✅
+│  ├─ Common Stock (Basics) 🟨
 │  ├─ Rights & Warrants ⬜
 │  ├─ ADRs ⬜
 │  └─ Calculations 🟨
@@ -271,7 +279,8 @@ DOMAIN 2: PRODUCTS & RISKS (44%) - LARGEST DOMAIN
 - [Glossary](../../resources/glossary.md) - Product terms
 
 ### Topics Files (when created):
-- [Common vs Preferred Stock](topics/common-vs-preferred-stock.md) - COMING SOON
+- [Preferred Stock](topics/preferred-stock.md) - ✅ **CREATED** (2025-01-09)
+- [Common Stock - Advanced](topics/common-stock-advanced.md) - NOT YET CREATED
 - [Rights & Warrants](topics/rights-and-warrants.md) - NOT YET CREATED
 - [Debt Securities](topics/debt-securities.md) - NOT YET CREATED
 - [Municipal Bonds](topics/municipal-bonds.md) - NOT YET CREATED
@@ -282,17 +291,19 @@ DOMAIN 2: PRODUCTS & RISKS (44%) - LARGEST DOMAIN
 
 ## Statistics | 统计数据
 
-**Teaching Sessions**: 1 (Common vs Preferred Stock)
+**Teaching Sessions**: 2 (Baseline 2025-12-22, Deep Dive 2025-01-09)
 
-**Total Study Time on Domain 2**: ~30 minutes
+**Total Study Time on Domain 2**: ~90 minutes
 
-**Topics Completed**: 1 / 15+ (6%)
+**Topics Completed**: 1 / 15+ (Preferred Stock fully mastered)
 
-**Questions Generated**: 0 (needs attention!)
+**Questions Generated**: 5 (100% accuracy achieved)
 
-**Files Created**: 0
+**Files Created**: 1 (preferred-stock.md)
 
 **Target Practice Questions for Domain**: 100-150 (given 44% weight)
+
+**Progress**: 5 / 100-150 questions (3-5%)
 
 **Estimated Completion**: Week 8-10 (if prioritized, 2-3 sessions/week)
 
@@ -313,7 +324,7 @@ Recommended strategy:
 
 ---
 
-**Last Review**: 2025-12-24
+**Last Review**: 2025-01-09
 **Next Review**: After next Domain 2 session
 
 ---
